@@ -1,0 +1,18 @@
+AMELY (amelogenin) similar to AMELX on X
+RPS4Y1/RPS4Y2/RPS4X (Ribosomal protein S4)
+DDX3Y (helicase) similar to DDX3X on X
+X-transposed region (XTR),[14] once dubbed "PAR3"[56][56] but later refuted[57]
+PCDH11Y (PCDH11X)
+TGIF2LY (TGIF2LX)
+AZF1 (azoospermia factor 1)
+BPY2 (basic protein on the Y chromosome)
+DAZ1 (deleted in azoospermia)
+DAZ2
+DFNY1 encoding protein Deafness, Y-linked 1
+PRKY (protein kinase, Y-linked)
+RBMY1A1
+SRY (sex-determining region)
+TSPY (testis-specific protein)
+USP9Y
+UTY (ubiquitously transcribed TPR gene on Y chromosome)
+ZFY (zinc finger protein)

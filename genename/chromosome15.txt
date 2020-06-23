@@ -1,0 +1,68 @@
+AAGAB: alpha- and gamma-adaptin binding protein
+ACSBG1: encoding enzyme Acyl-CoA Synthetase, Bubblegum Family, member 1
+ARPP-19: encoding protein cAMP-regulated phosphoprotein 19
+C15orf15: encoding protein Probable ribosome biogenesis protein RLP24
+CAPN3: Calpain 3 (limb-girdle muscular dystrophy type 2A)
+CHP: Calcium binding protein P22
+CHSY1: Chondroitin sulfate synthase 1
+CLK3: CDC like kinase 3
+ClpX: encoding enzyme ATP-dependent Clp protease ATP-binding subunit clpX-like, mitochondrial
+COMMD4: encoding protein COMM domain-containing protein 4
+CPEB1: Cytoplasmic polyladenylation element binding protein 1
+DTWD1:
+ELL3: encoding protein Elongation factor RNA polymerase II-like 3
+FAH: fumarylacetoacetate hydrolase (fumarylacetoacetase)
+FAM214A: encoding protein Protein FAM214A
+FBN1: fibrillin 1 (Marfan syndrome)
+FOXB1: encoding protein Forkhead box B1
+GATM: Glycine aminotransferase, mitochondrial
+GCHFR: GTP cyclohydrolase 1 feedback regulatory protein
+GLCE: D-glucuronyl C5-epimerase
+HDGFRP3:
+HEXA: hexosaminidase A (alpha polypeptide)(Tay–Sachs disease)
+HMG20A: encoding protein High mobility group protein 20A
+IDDM3 encoding protein Insulin dependent diabetes mellitus 3
+IMP3: encoding protein U3 small nucleolar ribonucleoprotein protein IMP3
+ITPKA: encoding enzyme Inositol-trisphosphate 3-kinase A
+IVD: isovaleryl Coenzyme A dehydrogenase
+KATNBL1: encoding protein KATNBL1
+LARP6 encoding protein La-related protein 6 also known as acheron or La ribonucleoprotein domain family member 6 (LARP6),
+LCMT2: encoding enzyme Leucine carboxyl methyltransferase 2
+LINC00926 encoding protein Long intergenic non-protein coding RNA 926
+MESDC2: encoding protein LDLR chaperone MESD
+MESP1: encoding protein Mesoderm posterior 1 homolog (mouse)
+MFAP1: encoding protein Microfibrillar-associated protein 1
+MCPH4: microcephaly, primary autosomal recessive 4
+MIR7-2: encoding protein MicroRNA 7-2
+MIR627: encoding protein MicroRNA 627
+NIPA2: encoding protein Non-imprinted in Prader-Willi/Angelman syndrome region protein 2
+OCA2: oculocutaneous albinism II (pink-eye dilution homolog, mouse)
+PDCD7: encoding protein Programmed cell death protein 7
+PML: promyelocytic leukemia protein (involved in t(15,17) with RARalpha, predominant cause of acute promyelocytic leukemia.
+PTPLAD1: encoding enzyme Protein tyrosine phosphatase-like protein PTPLAD1
+PYGO1: encoding protein Pygopus homolog 1 (Drosophila)
+RAD51: RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+RMDN3: encoding protein Regulator of microtubule dynamics protein 3
+RNR3: encoding RNA, ribosomal 45S cluster 3
+RTF1: encoding protein Rtf1, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)
+SCAMP2: encoding protein Secretory carrier-associated membrane protein 2
+SCAMP5: encoding protein Secretory carrier-associated membrane protein 5
+SCZD10: encoding protein Schizophrenia disorder 10 (periodic catatonia)
+SCAPER: S-phase CyclinA Associated Protein residing in the Endoplasmic Reticulum
+SENP8: encoding enzyme Sentrin-specific protease 8
+SERF2: encoding protein Small EDRK-rich factor 2
+SLC24A5: the gene responsible for at least 1/3 of the skin color differences between races, expressed in the brain and the nervous system
+SNAPC5: encoding protein snRNA-activating protein complex subunit 5
+SPN1: encoding protein Snurportin1
+STRC: stereocilin
+SUHW4: encoding protein Zinc finger protein 280D
+SYNM: encoding protein Synemin
+TGFBR2: location 3p24.2-p25 due to a inactivation mutation
+TMC3: encoding protein Transmembrane channel like 3
+TMCO5A: encoding protein Transmembrane and coiled-coil domains 5A
+TMED3: encoding protein Transmembrane p24 trafficking protein 3
+UBE3A: ubiquitin protein ligase E3A (human papilloma virus E6-associated protein, Angelman syndrome)
+Ube3a-ATS:
+VPS39: encoding protein hVam6p/Vps39-like protein
+ZNF592: encoding protein Zinc finger protein 592
+UNC13C: encoding protein unc-13 homolog C

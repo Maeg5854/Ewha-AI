@@ -1,0 +1,78 @@
+ADA: Adenosine Deaminase (Adenosine Deaminase Deficiency)
+ANDP: encoding protein Activity-dependent neuroprotector homeobox
+AHCY: S-adenosylhomocysteine hydrolase
+APMAP: encoding protein Adipocyte plasma membrane-associated protein
+ARFGEF2: ADP-ribosylation factor guanine nucleotide-exchange factor 2 (brefeldin A-inhibited)
+BCAS1: Breast carcinoma-amplified sequence 1
+BLCAP: Bladder cancer associated protein
+BMP2: Bone Morphogenetic Protein 2 (osteoblast differentiation)
+BPIFB1: encoding protein BPI fold containing family B, member 1
+BPIFB4: encoding protein BPI fold containing family B, member 4
+C20orf27: encoding protein UPF0687 protein C20orf27
+CSRP2BP: encoding protein CSRP2 binding protein
+CST9L: Cystatin-9-like
+CSTL1: Cystatin-like 1
+CTCFL: CCCTC-binding factor-like
+CTNNBL1: Beta-catenin-like protein 1
+DBNDD2: Dysbindin domain-containing protein 2
+DDX27: DEAD box polypeptide 27
+DEFB118, DEFB119, DEFB126, DEFB127, DEFB129: Beta-defensin genes
+DLGAP4: Disks large-associated protein 4
+DNAJC5: Cysteine string protein
+EDEM2: ER degradation-enhancing alpha-mannosidase-like 2
+EDN3: endothelin 3
+ENTPD6: Ectonucleoside triphosphate diphosphohydrolase 6
+ESF1: ESF1 nucleolar pre-rRNA processing protein homolog
+FASTKD5: encoding protein FAST kinase domain-containing protein 5 (FASTKD5)
+FITM2: encoding protein Fat storage-inducing transmembrane protein 2
+GZF1: encoding protein GDNF-inducible zinc finger protein 1
+GMEB2: Glucocorticoid modulatory element-binding protein 2
+GNAS1: Gs alpha subunit (membrane G-protein)
+GSS: glutathione synthetase
+ITPA: encoding enzyme Inosine triphosphate pyrophosphatase
+JAG1: jagged 1 (Alagille syndrome)
+JPH2: encoding protein Junctophilin 2
+KIZ: encoding protein Kizuna centrosomal protein
+Kua-UEV:
+LIME1: encoding protein Lck-interacting transmembrane adapter 1
+LZTS3: encoding protein Leucine zipper, putative tumor suppressor family member 3
+MROH8: encoding protein maestro heat like repeat family member 8
+NAPB: encoding protein Beta-soluble NSF attachment protein
+NOL5A: encoding protein Nucleolar protein 56
+NRSN2: encoding protein Neurensin-2
+OTOR: encoding protein Otoraplin
+PANK2: pantothenate kinase 2 (pantothenate kinase-associated neurodegeneration)
+PKIG: encoding protein cAMP-dependent protein kinase inhibitor gamma
+PLAGL2: encoding protein Zinc finger protein PLAGL2
+POLR3F: encoding enzyme DNA-directed RNA polymerase III subunit RPC6
+PRIC285:
+PRNP: prion protein (p27-30) (Creutzfeldt–Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)
+PXMP4: encoding protein Peroxisomal membrane protein 4
+R3HDML: encoding protein R3H domain containing-like
+RTF2: encoding protein RTF2 homolog
+SALL4: sal-like 4 (Drosophila)
+SERINC3: encoding protein Serine incorporator 3
+SLC2A4RG: encoding protein SLC2A4 regulator
+SLX4IP: encoding protein SLX4 interacting protein
+SPATA2: encoding protein Spermatogenesis-associated protein 2
+SPEF1: encoding protein Sperm flagellar protein 1
+SRXN1: encoding protein Sulfiredoxin-1
+STAU1: encoding protein Double-stranded RNA-binding protein Staufen homolog 1
+STK35L1: encoding protein STK35L1
+SUN5: encoding protein SUN domain-containing protein 5
+TASP1: encoding enzyme Threonine aspartase 1
+tTG: tissue transglutaminase (auto antigen of Celiac disease)
+TMEPAI: encoding protein Transmembrane prostate androgen-induced protein
+TTPAL: encoding protein Tocopherol (alpha) transfer protein-like
+UCKL1: encoding enzyme Uridine-cytidine kinase-like 1
+UQCC: encoding enzyme Ubiquinol-cytochrome c reductase complex chaperone CBP3 homolog
+VAPB: VAMP (vesicle-associated membrane protein)-associated protein B and C
+YTHDF1: encoding protein YTH domain family, member 1
+ZFP64 encoding protein Zinc finger protein 64 homolog, isoforms 1 and 2
+ZGPAT: encoding protein Zinc finger CCCH-type with G patch domain-containing protein
+ZHX3: encoding protein Zinc fingers and homeoboxes protein 3
+ZNF334: encoding protein Zinc finger protein 334
+ZNF343: encoding protein Zinc finger protein 343
+ZSWIM3: encoding protein Zinc finger SWIM-type containing 3
+ZMYND8: encoding enzyme Protein kinase C-binding protein 1
+ZNF133: encoding protein Zinc finger protein 133

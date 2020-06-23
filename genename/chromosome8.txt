@@ -1,0 +1,121 @@
+ADHFE1 encoding protein Alcohol dehydrogenase, iron containing 1
+AEG1 : Astrocyte Elevated Gene (linked to hepatocellular carcinoma and neuroblastoma)
+ANK1: ankyrin 1, erythrocytic
+Arc/Arg3.1
+ASAH1: N-acylsphingosine amidohydrolase (acid ceramidase) 1
+ASPH: encoding enzyme Aspartyl/asparaginyl beta-hydroxylase
+AZIN1: encoding protein Antizyme inhibitor 1
+BRF2: transcription factor IIIB 50 kDa subunit
+C8orf32/WDYHV1: encoding enzyme Protein N-terminal glutamine amidohydrolase
+C8orf33: chromosome 8, open reading frame 33
+C8orf4: encoding protein Uncharacterized protein C8orf4
+C8orf46: encoding protein chromosome 8 open reading frame 46 (C8orf46)
+C8orf48 encoding protein C8orf48
+C8orf58: chromosome 8 open reading frame 58
+CCAT1: colon cancer associated transcript 1
+CCDC25: coiled-coil domain containing protein 25
+CHD7: chromodomain helicase DNA binding protein 7
+CHMP4C: Charged multivesicular body protein 4c
+CHRAC1 encoding protein Chromatin accessibility complex 1
+CHRNA2: cholinergic receptor, nicotinic, alpha 2 (neuronal)
+CLN8: ceroid-lipofuscinosis, neuronal 8
+CNGB3: cyclic nucleotide gated channel beta 3
+COH1: vacuolar protein sorting 13B
+CRISPLD1 encoding protein Cysteine rich secretory protein LCCL domain containing 1
+CSGALNACT1: Chondroitin sulfate N-acetylgalactosaminyltransferase 1
+CTHRC1 encoding protein Collagen triple helix repeat containing 1
+CYP11B1: cytochrome P450, family 11, subfamily B, polypeptide 1
+CYP11B2: cytochrome P450, family 11, subfamily B, polypeptide 2
+DCSTAMP: dendrocyte expressed seven transmembrane protein
+DPYS: dihydropyrimidinase
+EBAG9: Estrogen receptor binding site associated antigen 9
+EPPK1: epiplakin
+ERICH5 encoding protein Glutamate rich 5
+ESCO2: establishment of sister chromatid cohesion N-acetyltransferase 2
+EXT1: exostosin glycosyltransferase 1
+EXTL3: exostosin-like glycosyltransferase 3
+EYA1: EYA transcriptional coactivator and phosphatase 1
+FABP9: fatty acid binding protein 9, testis
+FAM167A: family with sequence similarity 167, member A
+FAM203B: family with sequence similarity 203, member B
+FAM83A: family with sequence similarity 83, member A
+FAM83H: family with sequence similarity 83, member H
+FBXO16 encoding protein F-box protein 16
+FDFT1 encoding protein Farnesyl-diphosphate farnesyltransferase 1
+FGFR1: fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+FGL1: Fibrinogen-like protein 1
+GDAP1: ganglioside-induced differentiation-associated protein 1
+GDF6: growth differentiation factor 6
+GPIHBP1: GPI-anchored high density lipoprotein binding protein 1
+GRINA: encoding protein Glutamate receptor, ionotropic, N-methyl D-aspartate-associated protein 1 (glutamate binding)
+GSDMC encoding protein Gasdermin C
+GULOP pseudogene: responsible for human inability to produce Vitamin C
+HGSNAT: heparan-alpha-glucosaminide N-acetyltransferase
+HMBOX1: encoding protein Homeobox containing 1, also known as homeobox telomere-binding protein 1 (HOT1)
+HRSP12 encoding enzyme Ribonuclease UK114
+INTS8: integrator complex subunit 8
+INTS9: integrator complex subunit 9
+KCNQ3: potassium channel, voltage gated KQT-like subfamily Q, member 3.
+KIAA0196: KIAA0196
+KIF13B encoding protein Kinesin family member 13B
+LACTB2: lactamase, beta 2
+LAPTM4B: lysosomal-associated transmembrane protein 4B
+LOC642658: encoding protein Basic helix-loop-helix transcription factor scleraxis
+LPL: lipoprotein lipase
+LSM1: U6 snRNA-associated Sm-like protein LSm1
+MAK16: MAK16 homolog
+MCPH1: microcephaly, primary autosomal recessive 1
+MIR6850 encoding protein MicroRNA 6850
+MRPL13 encoding protein Mitochondrial ribosomal protein L13
+MYBL1 encoding protein MYB proto-oncogene like 1
+NBN: nibrin
+NDRG1: N-myc downstream regulated gene 1
+NEF3: neurofilament 3 (150kDa medium)
+NEFL: neurofilament, light polypeptide 68kDa
+ODF1: outer dense fiber protein 1
+OTUD6B: OTU domain containing 6B
+PDP1: pyruvate dehydrogenase phosphatase catalytic subunit 1
+PKIA: cAMP-dependent protein kinase inhibitor alpha
+PLEC: plectin
+PNMA2: paraneoplastic antigen Ma2
+PREX2: phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2
+PROSC: proline synthetase co-transcribe bacterial homolog protein
+GLI4: encoding protein Gli family zinc finger 4
+PURG encoding protein Purine-rich element binding protein G
+PVT1: Pvt1 oncogene
+RECQL4: RecQ protein-like 4
+RNF5P1: ring finger protein 5 pseudogene 1
+RRS1: ribosome biogenesis regulator homolog
+RUNX1T1: runt-related transcription factor 1; translocated to, 1 (cyclin D-related)
+SFTPC: surfactant protein C
+SLC20A2: Sodium-dependent phosphate transporter 2
+SLURP1: secreted LY6/PLAUR domain containing 1
+SNAI2: snail homolog 2 (Drosophila)
+SPAG11B: sperm-associated antigen 11B
+STAU2: staufen double-stranded RNA binding protein 2
+SYBU: Syntabulin
+TG: thyroglobulin
+THAP1: THAP domain containing, apoptosis associated protein 1
+TMEM67: encoding protein Meckelin
+TNFRSF11B: tumor necrosis factor receptor superfamily, member 11b
+TONSL: encoding protein Tonsoku-like, DNA repair protein
+TPA: tissue plasminogen activator
+TRMT12: tRNA methyltransferase 12 homolog
+TRPS1: trichorhinophalangeal syndrome I
+TTI2 encoding protein TELO2 interacting protein 2
+VCPIP1: valosin containing protein/p47 complex interacting protein 1
+VMAT1: vesicular monoamine transporter protein
+VPS13B: vacuolar protein sorting 13 homolog B (yeast)
+VPS37A: vacuolar protein sorting 37 homolog A
+WRN: Werner syndrome
+YTHDF3: YTH N6-methyladenosine RNA binding protein 3
+ZFP41: encoding protein ZFP41 zinc finger protein
+ZHX2: zinc fingers and homeoboxes protein 2
+ZMAT4: zinc finger matrin-type 4
+ZNF16: zinc finger protein 16
+ZNF395: encoding protein Zinc finger protein 395
+ZNF517 encoding protein Zinc finger protein 517
+ZNF696 encoding protein Zinc finger protein 696
+ZNF703: zinc finger protein 703
+ZNF706: zinc finger protein 706
+ZNF707: encoding protein Zinc finger protein 707

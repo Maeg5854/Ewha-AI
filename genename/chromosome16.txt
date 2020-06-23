@@ -1,0 +1,97 @@
+ACSF3: encoding enzyme Acyl-CoA synthetase family member 3
+ACSM2B: encoding enzyme Acyl-coenzyme A synthetase ACSM2B, mitochondrial
+ACSM3: encoding enzyme Acyl-coenzyme A synthetase ACSM3, mitochondrial 2
+ADHD1: Attention deficit-hyperactivity disorder, susceptibility to, 1
+ARL6IP1: encoding protein ADP-ribosylation factor-like protein 6-interacting protein 1
+ARMC5
+BMIQ5: Body mass index quantitative trait locus 5
+C16orf58: encoding protein Chromosome 16 open reading frame 58
+C16orf71: encoding protein Uncharacterized protein Chromosome 16 Open Reading Frame 71
+C16orf84:
+C16orf95:
+C16orf96: encoding protein C16orf96, or chromosome 16 open reading frame 96,
+CARHSP1: Calcium-regulated heat stable protein 1
+CASP16P: encoding protein Caspase 16, pseudogene
+CCDC113: encoding protein Coiled-coil domain-containing protein 113
+Ccdc78: encoding protein Coiled-coil domain-containing 78 (CCDC78)
+CDIPT: CDP-diacylglycerol-inositol 3-phosphatidyltransferase
+CFDP1: Craniofacial development protein 1
+CHDS1: Coronary heart disease, susceptibility to, 1
+CIAPIN1: Anamorsin (originally, Cytokine induced apoptosis inhibitor 1)
+CKLF: Chemokine-like factor
+CLUAP1:
+CMTM2: encoding protein CKLF-like MARVEL transmembrane domain-containing protein 2
+CCDC135: encoding protein Coiled-coil domain-containing protein 135
+COTL1: encoding protein Coactosin-like protein
+CTRL: Chymotrypsin-like protease
+DCTPP1: encoding enzyme dCTP pyrophosphatase 1
+DEL16p13.3, RSTSS: Chromosome 16p13.3 deletion syndrome (Rubinstein-Taybi deletion syndrome)
+DHX38: DEAH-box helicase 38
+DUP16p13.3, C16DUPq13.3: Chromosome 16p13.3 duplication syndrome
+EMP2: Epithelial membrane protein 2
+ENKD1: Enkurin domain-containing protein 1
+ERAF: Alpha-hemoglobin-stabilizing protein
+FAHD1: Fumarylacetoacetate hydrolase domain-containing protein 1
+FAM57B: Family with sequence similarity 57 member B
+FBRS: Probably fibrosin-1 long transcript protein
+FOXC2-AS1: encoding protein FOXC2 antisense RNA 1
+GLG1: Golgi apparatus protein 1
+HBAP1: Hemoglobin, alpha pseudogene 1
+HBHR, ATR1: Alpha-thalassemia/mental retardation syndrome, type 1
+HIRIP3: encoding protein HIRA-interacting protein 3
+HN1L: encoding protein Hematological and neurological expressed 1-like protein
+IBD8: Inflammatory bowel disease 8
+IHPS2: Pyloric stenosis, infantile hypertrophic, 2
+ITFG3: encoding protein Protein ITFG3
+KDM8: encoding protein Lysine demethylase 8
+LINC00273 encoding protein Long intergenic non-protein coding RNA 273
+LOC124220: encoding protein Zymogen granule protein 16 homolog B
+LOC81691:
+LUC7L: encoding protein Putative RNA-binding protein Luc7-like 1
+LYPLA3: encoding enzyme Group XV phospholipase A2
+MC1R: melanocortin 1 receptor
+MCOPCT1: Microphthalmia with cataract 1
+METRN: encoding protein Meteorin, glial cell differentiation regulator
+METTL26/JFP2: encoding protein Chromosome 16 open reading frame 13
+MKL2: encoding protein MKL/myocardin-like protein 2
+MPHOSPH6: encoding enzyme M-phase phosphoprotein 6
+MT1G: encoding protein Metallothionein-1G
+MT1X: encoding protein Metallothionein 1X
+NIP30: encoding protein NIP30 protein
+NOB1: encoding protein RNA-binding protein NOB1
+NOMO1: encoding protein Nodal modulator 1
+NPW: encoding protein Neuropeptide W
+NUBP2: encoding protein Nucleotide-binding protein 2
+NUPR1: encoding protein Nuclear protein 1
+OGFOD1:
+PDF: encoding enzyme Peptide deformylase, mitochondrial
+PDPR: encoding protein Pyruvate dehydrogenase phosphatase regulatory subunit
+PKDTS: Polycystic kidney disease, infantile severe, with tuberous sclerosis
+PMFBP1: encoding protein Polyamine-modulated factor 1-binding protein 1
+POLR3K: encoding enzyme DNA-directed RNA polymerase III subunit RPC10
+PRR35: encoding protein Proline rich 35
+RPS15A: encoding protein 40S ribosomal protein S15a
+RSL1D1: encoding protein Ribosomal L1 domain-containing protein 1
+SHCBP1: encoding protein SHC SH2 domain-binding protein 1
+SLZ1: encoding protein SLX1 structure-specific endonuclease subunit homolog B (S. cerevisiae)
+SNAI3-AS1: encoding protein SNAI3 antisense RNA 1
+SNORD71: encoding protein Small nucleolar RNA, C/D box 71
+SPSB3: encoding protein SplA/ryanodine receptor domain and SOCS box containing 3
+SRCAP: encoding enzyme Helicase SRCAP
+TANGO6: encoding protein Transport and Golgi organization protein 6 homolog
+TAO2: encoding Serine/threonine-protein kinase TAO2
+TBC1D24: encoding protein TBC1 domain family, member 24
+TELO2: encoding protein Telomere length regulation protein TEL2 homolog
+TMEM112: encoding enzyme Lipase maturation factor 1
+TMEM8A: encoding protein Transmembrane protein 8A
+TNRC6A: encoding protein Trinucleotide repeat-containing gene 6A protein
+Tuberous sclerosis complex tumor suppressors: encoding [[]] FALSE
+TSR3: encoding
+UNKL: encoding protein RING finger protein unkempt-like
+VAT1L: encoding protein Vesicle amine transport protein 1 homolog (T. californica)-like
+VPS35L: encoding protein VPS35 Endosomal Protein Sorting Factor Like
+ZG16
+ZNF23: encoding protein Zinc finger protein 23
+ZNF200: encoding protein Zinc finger protein 200
+ZNF263: encoding protein Zinc finger protein 263
+ZNF629: encoding protein Zinc finger protein 629

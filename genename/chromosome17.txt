@@ -1,0 +1,74 @@
+2700099C18Rik: encoding protein NDC80 homolog, kinetochore complex component pseudogene
+ABI3: encoding protein ABI gene family member 3
+ARHGAP44: encoding protein Rho GTPase activating protein 44
+AZI1: encoding protein 5-azacytidine-induced protein 1
+BCPR encoding protein Breast cancer-related regulator of TP53
+C1QL1: encoding protein complement component 1, q subcomponent-like 1
+CCDC144A: encoding protein Coiled-coil domain-containing protein 144A
+CCDC40: encoding protein Coiled-coil domain containing 40
+CCDC47: encoding protein CCDC47
+CCDC57: encoding protein Coiled-coil domain-containing protein 57
+CLUH: encoding protein Clustered mitochondria (cluA/CLU1) homolog
+CTDNEP1: encoding protein CTD nuclear envelope phosphatase 1
+DEL17P13.1 encoding protein Chromosome 17p13.1 deletion syndrome
+DPH1 encoding protein Diphthamide biosynthesis protein 1
+DUP17Q12: encoding protein Chromosome 17q12 duplication syndrome
+FAM20A: encoding protein FAM20A
+GGT6: encoding protein Gamma-glutamyltransferase 6
+HN1: encoding protein Hematological and neurological expressed 1 protein
+IBD22 encoding protein Inflammatory bowel disease-22
+LINC00511: encoding protein Long intergenic non-protein coding RNA 511
+LINC00674 encoding protein Long intergenic non-protein coding RNA 674
+LRRC37A encoding protein Leucine rich repeat containing 37A
+LRRC48: encoding protein Leucine-rich repeat-containing protein 48
+MGAT5B: encoding enzyme Alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase B
+MIR4521: encoding protein MicroRNA 4521
+MSI2: encoding protein Musashi RNA binding protein 2
+MYBBP1A: encoding protein Myb-binding protein 1A
+NBP: encoding peptide Neuropeptide B
+NME1-NME2:
+NXPH3: encoding protein Neurexophilin-3
+OMG: encoding protein Oligodendrocyte-myelin glycoprotein
+Ormdl sphingolipid biosynthesis regulator 3: encoding protein ORMDL sphingolipid biosynthesis regulator 3
+PLXDC1: encoding protein Plexin domain-containing protein 1
+PNPO: encoding enzyme Pyridoxine-5'-phosphate oxidase
+PPP1R27: encoding protein Protein phosphatase 1, regulatory subunit 27
+PRCD: encoding protein Progressive rod-cone degeneration
+PRPSAP2: encoding protein Phosphoribosyl pyrophosphate synthetase-associated protein 2
+QRICH2: encoding protein Glutamine-rich protein 2
+RAP1GAP2: encoding protein RAP1 GTPase activating protein 2
+RFFL: encoding enzyme E3 ubiquitin-protein ligase rififylin
+RNMTL1: encoding enzyme RNA methyltransferase-like protein 1
+RPAIN: encoding protein RPA-interacting protein
+RPL23A: encoding protein 60S ribosomal protein L23a
+SC65: encoding protein Synaptonemal complex protein SC65
+SCPEP1: encoding enzyme Retinoid-inducible serine carboxypeptidase
+SEBOX: encoding protein SEBOX homeobox
+SECTM1: encoding protein Secreted and transmembrane protein 1
+SEPTIN4: encoding Septin4
+SKA2: encoding protein Spindle and Kinetochore Associated
+SLFN11: encoding protein Schlafen family member 11
+SLFN12: encoding protein Schlafen family member 12
+SNF8: encoding protein Vacuolar-sorting protein SNF8
+SPACA3: Sperm acrosome membrane-associated protein 3
+SPAG5: encoding protein Sperm-associated antigen 5
+ST6GALNAC1: encoding enzyme Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1
+ST6GALNAC2: encoding enzyme Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2
+STH: encoding protein Saitohin
+SUZ12P1 encoding protein SUZ12 polycomb repressive complex 2 subunit pseudogene 1
+TAC4: encoding protein Tachykinin-4
+TBC1D3: encoding protein TBC1 domain family member 3E/3F
+TMEM106A: encoding protein Transmembrane protein 106A
+TMEM98: encoding protein Transmembrane protein 98
+TNFSF12-TNFSF13:
+TOM1L1: encoding protein TOM1-like protein 1
+TOM1L2: encoding protein TOM1-like protein 2
+TRIM65: encoding protein Tripartite motif containing 65
+TRPV1: encoding protein Transient receptor potential cation channel subfamily V member 1
+TSEN54: encoding protein TRNA splicing endonuclease subunit 54
+TTYH2: encoding protein Tweety family member 2
+VAT1: encoding protein Synaptic vesicle membrane protein VAT-1 homolog
+VPS25: encoding protein Vacuolar protein-sorting-associated protein 25
+VPS53: encoding protein Vacuolar protein sorting 53 homolog (S. cerevisiae)
+YBX2: encoding protein Y-box-binding protein 2
+ZNF207: encoding protein Zinc finger protein 207

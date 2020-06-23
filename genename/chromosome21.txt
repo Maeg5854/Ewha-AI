@@ -1,0 +1,45 @@
+ADAMTS1
+APP: amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)[14]
+MIS18A: encoding protein Protein Mis18-alpha
+DNAJC28: encoding protein DnaJ homolog subfamily C member 28
+SPATC1L: encoding protein SPATC1L
+C21orf59: Chromosome 21 open reading frame 59
+C21orf62: expressed in tissues of the brain and reproductive organs
+CBS: cystathionine-beta-synthase
+CLDN14: claudin 14
+CRYZL1: Crystallin zeta-like 1
+CTSB
+CYYR1: Cysteine and tyrosine rich 1
+DIP2A: Disco-interacting protein 2 homolog A
+DOPEY2: Dopey family member 2
+DSCR1: Down Syndrome critical region 1[15]
+DYRK1A: dual specificity tyrosine-(Y)-phosphorylation regulated kinase 1A
+ERG
+ETS2
+FAM3B: Family with sequence similarity 3 member B
+FRGCA: encoding protein FOXM1-regulated, gastric cancer associated
+HLCS: holocarboxylase synthetase (biotin-(propionyl-Coenzyme A-carboxylase (ATP-hydrolysing)) ligase)
+KCNE1: potassium voltage-gated channel, Isk-related family, member 1
+KCNE2: potassium voltage-gated channel, Isk-related family, member 2
+LAD: leukocyte adhesion deficiency (symbols are ITGB2, CD18, LCAMB)
+NRIP1
+OLIG2
+PAXBP1: encoding protein GC-rich sequence DNA-binding factor homolog
+PCNT: centrosomal pericentrin
+PDXK: encoding enzyme Pyridoxal kinase
+PSMG1: Proteasome assembly chaperone 1
+RNR4: RNA, ribosomal 45S cluster 4
+RRP1: encoding protein Ribosomal RNA processing protein 1 homolog A
+RRP1B: ribosomal RNA processing 1 homolog B
+RWDD2B: encoding protein RWD domain-containing protein 2B
+RUNX1
+S100B: calcium binding protein
+SOD1: superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))
+TFF1
+TFF2 
+TFF3 
+TIAM1
+TMEM1: encoding protein Trafficking protein particle complex subunit 10
+TMPRSS2
+TMPRSS3: transmembrane protease, serine 3
+TTC3: Tetratricopeptide Repeat Domain 3

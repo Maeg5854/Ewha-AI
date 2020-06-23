@@ -1,0 +1,96 @@
+ABO: ABO histo-blood group glycosyltransferases
+ACTL7A: encoding protein Actin-like protein 7A
+ADAMTS13: ADAM metallopeptidase with thrombospondin type 1 motif, 13
+AIF1L: allograft inflammatory factor 1-like
+ALAD: aminolevulinate, delta-, dehydratase
+ALS4: amyotrophic lateral sclerosis 4
+ANGPTL2: angiopoietin-related protein 2
+ASS: argininosuccinate synthetase
+BNC2: zinc finger protein basonuclin-2
+C9orf64: chromosome 9 open reading frame 64
+C9orf78: encoding protein Uncharacterized protein C9orf78
+SHOC1: Shortage In Chiasmata 1
+C9orf135: encoding protein Chromosome 9 open reading frame 135
+C9orf152: chromosome 9 open reading frame 152
+CAAP1: caspase activity and apoptosis inhibitor 1
+CARD19: caspase recruitment domain family member 19
+CBWD1: COBW domain-containing protein 1
+CCDC180: Coiled coil domain-containing protein 180
+CCL21: chemokine (C-C motif) ligand 21, SCYA21
+CCL27: chemokine (C-C motif) ligand 27, SCYA27
+CFAP157: Cilia and flagella associated protein 157
+CHMP5: Charged multivesicular body protein 5
+CNTLN: centlein
+COL5A1: collagen, type V, alpha 1
+DDX31: DEAD box polypeptide 31
+DENND1A: DENN domain-containing protein 1A
+ENG: endoglin (Osler-Rendu-Weber syndrome 1)
+ENTPD2: encoding enzyme ectonucleoside triphosphate diphosphohydrolase 2
+EQTN: equatorin
+FAM73B: family with sequence similarity 73 member B
+FAM120A: Family with sequence similarity 120 member A
+FAM122a: encoding protein Family with sequence similarity 122A
+FBP1 Fructose-1,6-bisphosphatase 1
+FIBCD1: encoding protein Fibrinogen C domain containing 1
+FOCAD: focadhesin
+FXN: frataxin
+GALT: galactose-1-phosphate uridylyltransferase
+GAS1: growth arrest-specific protein 1
+GCNT1: glucosaminyl (N-acetyl) transferase 1
+GLE1L: Nucleoporin GLE1
+GPR107: G protein-coupled receptor 107
+GRHPR: glyoxylate redasductase/hydroxypyruvate reductase
+GSN: cytoplasmic and plasma gelsolin
+HAUS6: HAUS augmin-like complex subunit 6
+IFN1@: Interferon, type 1, cluster
+IKBKAP: inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein
+INSL6: insulin like 6
+ISCA1: iron-sulfur cluster assembly 1 homolog, mitochondrial
+KIAA1958: protein KIAA1958
+KYAT1: Kynurenine aminotransferase 1
+LINGO2: leucine rich repeat and Ig domain containing 2
+MGC50722: Protein MGC50722, Uncharacterized Protein LOC399693
+MIR181A2HG encoding protein MIR181A2 host gene
+MIR7-1: microRNA 7-1
+MSMP: encoding protein Microseminoprotein, prostate associated
+MTAP: S-methyl-5'-thioadenosine phosphorylase
+NAA35: encoding protein N(alpha)-acetyltransferase 35, NatC auxiliary subunit
+NANS: N-acetylneuraminate synthase
+NINJ1: ninjurin-1
+NOL6: nucleolar protein 6
+NUDT2: nudix hydrolase 2
+OLFM1: olfactomedin 1
+PHF2: PHD finger protein 2
+PHPT1: phosphohistidine phosphatase 1
+PIP5K1B: phosphatidylinositol-4-phosphate 5-kinase type-1 beta
+PLAA: phospholipase A-2-activating protein
+PMPCA: mitochondrial processing alpha subunit
+PRUNE2: protein prune homolog 2
+RABGAP1: RAB GTPase activating protein 1
+REXO4: RNA exonuclease 4
+RNF183: encoding protein Ring finger protein 183
+SARDH: sarcosine dehydrogenase, mitochondrial
+SIT1: signaling threshold regulating transmembrane adapter 1
+SLC25A25-AS1: encoding protein SLC25A25 antisense RNA 1
+SPAG8 sperm-associated antigen 8
+SPIN1: spindlin-1
+ST6GALNAC4 encoding enzyme ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 4, also known as sialyltransferase 3C (SIAT3-C) or sialyltransferase 7D (SIAT7-D)
+ST6GALNAC6: ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 6
+STOML2: stomatin-like protein 2
+STRBP: spermatid perinuclear RNA-binding protein
+TEX10: testis expressed 10
+TGFBR1: transforming growth factor beta, receptor type I
+TMC1: transmembrane channel-like 1
+TMEM215: encoding protein Transmembrane protein 215
+TMEM268: Transmembrane protein 268
+TOR2A encoding protein Torsin-2A
+TSC1: tuberous sclerosis complex]] 1
+TTC39B: tetratricopeptide repeat protein 39B
+UBAC1: ubiquitin-associated domain containing protein 1
+UBAP1: ubiquitin-associated protein 1
+UBAP2: ubiquitin-associated protein 2
+ZBTB43: zinc finger and BTB domain containing 43
+ZCCHC6: zinc finger, CCHC domain containing 6
+ZDHHC21: zinc finger DHHC-type containing 21
+ZNF79: zinc finger protein 79
+ZNF510: zinc finger protein 510

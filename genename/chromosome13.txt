@@ -1,0 +1,55 @@
+ARGLU1: encoding protein Arginine and glutamate-rich protein 1
+ATP7B: ATPase, Cu++ transporting, beta polypeptide (Wilson disease)
+BRCA2: breast cancer 2, early onset
+BRCA3 encoding protein Breast cancer 3
+CAB39L: encoding protein Calcium-binding protein 39-like
+CARKD: Carbohydrate Kinase Domain Containing Protein (Unknown Function)
+CCDC70: Coiled-coil domain-containing protein 70
+CHAMP1: Chromosome alignment-maintaining phosphoprotein 1
+CKAP2: Cytoskeleton-associated protein 2
+DLEU1: a long non-coding RNA
+DLEU2: Deleted in lymphocytic leukemia 1
+DZIP1: DAZ interacting zinc finger protein 1
+EDNRB: endothelin receptor type B
+ELF1: encoding protein E74-like factor 1 (ets domain transcription factor)
+ESD: S-formylglutathione hydrolase
+FAM155A: encoding protein Family with sequence similarity 155, member A
+FLT1: Fms related tyrosine kinase 1 (Vascular endothelial growth factor receptor 1)
+GJB2: gap junction protein, beta 2, 26kDa (connexin 26)
+GJB6: gap junction protein, beta 6 (connexin 30)
+Glypican 5: encoding protein Glypican-5
+HTR2A: 5-HT2A receptor
+INTS6: encoding protein Integrator complex subunit 6
+GPALPP1: encoding protein KIAA1704
+LOC107984557 encoding protein Methylcytosine dioxygenase TET1-like
+MBNL2: encoding protein Muscleblind-like protein 2
+MIPEP: encoding enzyme Mitochondrial intermediate peptidase
+MIRH1: encoding protein Putative microRNA host gene 1 protein
+MTRF1:
+NDFIP2: encoding protein NEDD4 family-interacting protein 2
+NUPL1: encoding protein Nucleoporin p58/p45
+POMP: encoding proteasome maturation protein
+PCCA: propionyl Coenzyme A carboxylase, alpha polypeptide
+RB1: retinoblastoma 1 (including osteosarcoma)
+RCBTB1: encoding protein RCC1 and BTB domain-containing protein 1
+RCBTB2: encoding protein RCC1 and BTB domain-containing protein 2
+RGCC: encoding protein Regulator of cell cycle RGCC
+RNR1: encoding RNA, ribosomal 45S cluster 1
+SCEL: encoding protein Sciellin
+SLC46A3: encoding protein Solute carrier family 46, member 3
+SLITRK1: encoding protein SLIT and NTRK-like protein 1
+SLITRK1: mutation in this gene causes some (although very few) cases of Tourette syndrome and trichotillomania
+SLITRK5: encoding protein SLIT and NTRK-like protein 5
+SLITRK6: encoding protein SLIT and NTRK-like protein 6
+SOX21: Transcription factor SOX-21 is a protein that in humans is encoded by the SOX21; its disruption can lead to types of alopecia in mice.
+SPRYD7: encoding protein SPRY domain-containing protein 7
+SUPT20H: SPT20 homolog
+TDRD3: encoding protein Tudor domain-containing protein 3
+TM9SF2: encoding protein Transmembrane 9 superfamily member 2
+TPT1: Translationally controlled tumor protein (TCTP)
+TSC22D1: encoding protein TSC22 domain family protein 1
+UBL3: encoding protein Ubiquitin-like protein 3
+WBP4: encoding protein WW domain-binding protein 4
+XPO4: encoding protein Exportin-4
+ZC3H13: encoding protein Zinc finger CCCH domain-containing protein 13
+ZMYM2: encoding protein Zinc finger MYM-type protein 2

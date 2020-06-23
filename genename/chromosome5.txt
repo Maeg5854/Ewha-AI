@@ -1,0 +1,101 @@
+ABLIM3: encoding protein Actin-binding LIM protein 3
+ADAMTS2: ADAM metallopeptidase with thrombospondin type 1 motif, 2
+AGXT2: Alanine-glyoxylate aminotransferase 2
+ANKRD31: encoding protein Ankyrin repeat domain 31
+APBB3: encoding protein Amyloid beta A4 precursor protein-binding family B member 3
+APC: adenomatosis polyposis coli
+ARL15: encoding protein ADP-ribosylation factor-like 15
+BRIX1: Ribosome biogenesis protein BRX1 homolog (also BXDC2)
+C1QTNF3: Complement C1q tumor necrosis factor-related protein 3
+FAM114A2: encoding protein FAM114A2
+NREP: Neuronal regeneration related protein
+FAM172A: encoding protein UPF0528 protein FAM172A
+CPLANE1: Ciliogenesis And Planar Polarity Effector 1
+CAST: Calpastatin
+CPLX2: Complexin-2
+CREBRF: encoding protein CREB3 regulatory factor
+CXXC5: CXXC-type zing finger protein 5
+DPYSL3: Dihydropyrimidinase-like protein 3
+EGR1: early growth response protein 1
+ERAP1: endoplasmic reticulum aminopeptidase 1 (previously called ARTS-1)
+ERAP2: endoplasmic reticulum aminopeptidase 2
+ESM1: Endothelial cell-specific molecule 1
+DTDST: diastrophic dysplasia sulfate transporter
+EIF4E1B: encoding protein Eukaryotic translation initiation factor 4E family member 1B
+ERCC8: excision repair cross-complementing rodent repair deficiency, complementation group 8
+FAM71B: encoding protein Family with sequence similarity 71 member B
+FAM105B: encoding protein Family with sequence similarity 105, member B
+FASTKD3: FAST kinase domain-containing protein 3
+FBXL7: F-box/LRR-repeat protein 7
+FCHSD1: FCH and double SH3 domain protein 1
+FGF1: fibroblast growth factor 1 (acidic fibroblast growth factor)
+FGFR4: fibroblast growth factor receptor 4
+GM2A: GM2 ganglioside activator
+GNPDA1: Glucosamine-6-phosphate isomerase 1
+GPBP1: Vasculin
+HEXB: hexosaminidase B (beta polypeptide)
+HMGXB3: encoding protein HMG-box containing 3
+IK: Protein Red
+IRX1: Iroquois-class homeodomain protein (human)
+LARP1: La-related protein 1
+LMAN2: Lectin mannose binding 2
+LNCR3 encoding protein Lung cancer susceptibility 3
+LPCAT1: Lysophosphatidylcholine acyltransferase 1
+LYSMD3: LysM and putative peptidoglycan-binding domain-containing protein 3
+MAN2A1: Alpha-mannosidase 2
+MASS1: monogenic, audiogenic seizure susceptibility 1 homolog (mouse)
+MCC: Colorectal mutant cancer protein
+MCCC2: methylcrotonoyl-Coenzyme A carboxylase 2 (beta)
+MEF2C: Myocyte-specific enhancer factor 2C
+MEF2C-AS1: encoding protein MEF2C antisense RNA 1
+MGAT1: Mannosyl (alpha-1,3-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase
+MIR146A: microRNA 146a
+MTRR: 5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+MZB1: Marginal zone B and B1 cell-specific protein
+NIPBL: Nipped-B homolog (Drosophila)
+NSA2 encoding protein TGF beta-inducible nuclear protein 1
+NSD1: Transcription coregulator protein
+NSUN2: NOP2/Sun domain family, member 2
+NR2F1: Nuclear hormone receptor
+NUDCD2: NudC domain-containing protein 2
+P4HA2: Prolyl 4-hydroxylase subunit alpha-2
+PCBD2: Pterin-4-alpha-carbinolamine dehydratase 2
+PELO: Pelota homolog
+PHAX: Phosphorylated adapter for RNA export
+Pikachurin: Responsible for the functioning of the ribbon synapses; allows the eye to track moving objects
+PFDN1: Prefoldin subunit 1
+POLR3G: encoding protein Polymerase (RNA) III (DNA directed) polypeptide G (32kD)
+PPIP5K2: Diphosphoinositol pentakisphosphate kinase 2
+PRCC1: Proline-rich coiled coil 1
+PURA: Purine-rich element-binding protein A
+PWWP2A: encoding protein PWWP domain containing 2A
+RANBP3L: encoding protein RAN binding protein 3-like
+RMND5B: Required for meiotic nuclear division 5 homolog B
+SFXN1: Sideroflexin-1
+SKIV2L2: Ski2 like RNA helicase 2
+SLC22A5: solute carrier family 22 (organic cation transporter), member 5
+SLC26A2: solute carrier family 26 (sulfate transporter), member 2
+SH3TC2: domain and tetratricopeptide repeats 2
+SLCO4C1: Solute carrier organic anion transporter family member 4c1
+SLU7: pre-mRNA-splicing factor SLU7
+SMN1: survival motor neuron 1, telomeric
+SMN2: survival motor neuron 2, centromeric
+SNCAIP: synuclein, alpha interacting protein (synphilin)
+SPEF2: Sperm flagellar protein 2
+SPINK5: serine protease inhibitor Kazal-type 5 (LEKTI)
+SPINK6: serine protease inhibitor Kazal-type 6
+SPINK9: serine protease inhibitor Kazal-type 9 (LEKTI-2)
+SPZ1: Spermatogenic leucine zipper protein 1
+STC2: Stanniocalcin-2
+TBCA: Tubulin-specific chaperone A
+TCOF1: Treacher Collins-Franceschetti syndrome 1
+TGFBI: keratoepithelin
+THG1L: Probable tRNA(His) guanylyltransferase
+TICAM2: TIR domain-containing adapter molecule 2
+TNFAIP8: Tumor necrosis factor, alpha-induced protein 8
+TTC37: Tetratricopeptide repeat domain 37
+UPF0488: encodes G protein-coupled receptor protein signaling pathway
+YIPF5: Yip1 domain family member 5
+YTHDC2: encoding protein YTH domain containing 2
+ZBED3: Zinc finger BED domain-containing protein 3
+ZNF608: encoding protein Zinc finger protein 608

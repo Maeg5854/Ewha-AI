@@ -1,0 +1,36 @@
+ASXL3: encoding protein Additional sex combs like 3 (Drosophila)
+CABLES1: encoding protein CDK5 and ABL1 enzyme substrate 1
+CABYR: Calcium-binding tyrosine phosphorylation-regulated protein
+CHMP1B: Charged multivesicular body protein 1b
+CXXC1: CXXC-type zinc finger protein 1
+DCC: Deleted in Colorectal Cancer
+ELAC1: elaC ribonuclease Z 1
+ESCO1: encoding protein Establishment of sister chromatid cohesion N-acetyltransferase 1
+FAM69C: encoding protein Family with sequence similarity 69, member C
+FECH: ferrochelatase (protoporphyria)
+GREB1L: encoding protein Growth regulation by estrogen in breast cancer-like
+HAUS1: HAUS augmin-like complex subunit 1
+HDHD2: encoding enzyme Haloacid dehalogenase-like hydrolase domain-containing protein 2
+IER3IP1: encoding protein Immediate early response 3-interacting protein 1
+KC6: Keratoconus gene 6, discovery reported in 2005;
+MIR133A1: encoding microRNA MicroRNA 133a-1
+MIR187: encoding protein MicroRNA 187
+MRCL3: encoding protein Myosin regulatory light chain 12A
+NAPG: encoding protein Gamma-soluble NSF attachment protein
+NOL4: encoding protein Nucleolar protein 4
+NPC1: Niemann-Pick disease, type C1
+PIGN: encoding protein Phosphatidylinositol glycan anchor biosynthesis, class N
+PSTPIP2: encoding enzyme Proline-serine-threonine phosphatase-interacting protein 2
+RP11-267C16.1: encoding protein Uncharacterized LOC100287225
+SERPINB10: encoding protein Serpin peptidase inhibitor, clade B (ovalbumin), member 10
+SIGLEC15: encoding protein Sialic acid binding Ig-like lectin 15
+SMAD4: SMAD, mothers against DPP homolog 4 (Drosophila)
+TMEM241: encoding protein Transmembrane protein 241
+TTC39C: encoding protein Tetratricopeptide repeat protein 39C
+TWSG1: encoding protein Twisted gastrulation protein homolog 1
+ZCCHC2: encoding protein Zinc finger CCHC domain-containing protein 2
+ZFP161: encoding protein Zinc finger protein 161 homolog
+ZNF236: encoding protein Zinc finger protein 236
+ZNF516: encoding protein Zinc finger protein 516
+ZNF521: encoding protein Zinc finger protein 521
+ZNF532: encoding protein Zinc finger protein 532

@@ -1,0 +1,65 @@
+ADM2: encoding protein ADM2
+APOBEC3B: encoding protein Probable DNA dC->dU-editing enzyme APOBEC-3B
+ARFGAP3: encoding protein ADP-ribosylation factor GTPase-activating protein 3
+ASCC2: encoding protein Activating signal cointegrator 1 complex subunit 2
+ATF4 (22q13) encoding protein cyclic AMP-dependent transcription factor ATF-4
+BCR (22q11) encoding breakpoint cluster region protein
+CARD10 (22q13) encoding caspase recruitment domain-containing protein 10
+CBX7 (22q13) encoding chromobox protein homolog 7
+CDC42EP1: CDC42 effector protein 1
+CECR1: Cat eye syndrome critical region protein 1
+CHEK2 (22q12)
+COMT
+CRELD2: Cysteine-rich with EGF-like domain protein 2
+CSDC2: Cold shock domain-containing protein D2
+CSNK1E: encoding enzyme Casein kinase I isoform epsilon or CK1ε,
+DGCR5: encoding a long non-coding RNA
+DGCR6: DiGeorge Syndrome critical region gene 6
+EP300
+EWSR1
+TAFA5: Family with sequence similarity 19 member A5
+FAM227A: encoding protein FAM227A
+FBLN1
+GTPBP1: GTP-binding protein 1
+IGL@
+IGLJ3 encoding protein Immunoglobulin lambda joining 3
+KIAA0930: encoding uncharacterized protein KIAA0930
+LINC00899 encoding protein Long intergenic non-protein coding RNA 899
+MAPK1
+MAPK12
+MCAT: encoding enzyme Malonyl CoA-acyl carrier protein transacylase, mitochondrial
+MCM5
+MIF
+MIRLET7BHG: encoding protein MIRLET7B host gene (non-protein coding)
+MKL1
+MMP11
+MN1
+MTP18:
+MYH9
+NF2
+NOL12: encoding protein Nucleolar protein 12
+PARVB
+PDGFB
+PI4KA: encoding enzyme Phosphatidylinositol 4-kinase alpha
+PI4KAP2: pseudogene phosphatidylinositol 4-kinase alpha pseudogene 2
+PISD: encoding enzyme Phosphatidylserine decarboxylase proenzyme
+PNPLA3: encoding enzyme Patatin-like phospholipase domain-containing protein 3
+PRAME: encoding protein Melanoma antigen preferentially expressed in tumors
+RAC2
+RBX1
+RNR5: encoding RNA, ribosomal 45S cluster 5
+RRP7A: encoding protein Ribosomal RNA-processing protein 7 homolog A
+SAMM50: encoding protein Sorting and assembly machinery component 50 homolog
+SEPT3: encoding protein Neuronal-specific septin-3
+SEPT5
+SHFM3P1:
+SOX10
+SYNGR1: encoding protein Synaptogyrin-1
+TBC1D10A: encoding protein TBC1 domain family member 10A
+TEF: encoding protein Thyrotroph embryonic factor
+THAP7: encoding protein THAP domain-containing protein 7
+THOC5: encoding protein THO complex subunit 5 homolog
+TRMU: encoding enzyme Mitochondrial tRNA-specific 2-thiouridylase 1
+TTC28: encoding protein Tetratricopeptide repeat domain 28
+TTLL1: encoding enzyme Probable tubulin polyglutamylase TTLL1
+XRCC6: encoding protein Ku70

@@ -1,0 +1,72 @@
+ACIN1: encoding protein Apoptotic chromatin condensation inducer in the nucleus
+ATXN3: Ataxin-3 (Machado-Joseph disease)
+C14orf93: encoding protein C14orf93
+CLBA1: encoding protein CLBA1
+CDC42BPB: encoding protein CDC42 binding protein kinase beta
+CHMP4A: Charged multivesicular body protein 4a
+CIDEB: Cell death-inducing DFFA-like effector b
+CMA1: encoding enzyme Chymase
+CNIH: encoding protein Protein cornichon homolog
+COCH: coagulation factor C homolog, cochlin (Limulus polyphemus)
+CRIP2: Cysteine-rich protein 2
+DDX24: encoding enzyme ATP-dependent RNA helicase DDX24
+DEGS2: encoding protein Delta(4)-desaturase, sphingolipid 2
+DLGAP5: Disks large-associated protein 5
+DGLUCY: encoding protein DGLUCY, mitochondrial
+EAPP: E2F-associated phosphoprotein
+EGLN3: Egl nine homolog 3
+ENTPD5: Ectonucleoside triphosphate diphosphohydrolase 5
+ERG28: encoding protein Probable ergosterol biosynthetic protein 28
+Fam158a: encoding protein UPF0172 protein FAM158A
+FAM181A: encoding protein Family with sequence similarity 181, member A
+FAM71D: Family With Sequence Similarity 71, Member D
+FCF1: rRNA-processing protein FCF1 homolog
+GALC: galactosylceramidase (Krabbe disease)
+GARNL1: GTPase-activating Rap/Ran-GAP domain-like 1
+GCH1: GTP cyclohydrolase 1 (dopa-responsive dystonia)
+GPHB5: Glycoprotein hormone beta-5
+GSKIP encoding protein GSK3B interacting protein
+HHIPL1: encoding protein HHIP-like protein 1
+IFI27: encoding protein Interferon alpha-inducible protein 27
+IFT43: intraflagellar transport 43
+IGH@: immunoglobulin heavy chain locus
+IRF2BPL: encoding protein Interferon regulatory factor 2 binding protein like
+ITPK1: encoding enzyme Inositol-tetrakisphosphate 1-kinase
+JKAMP: encoding protein JNK1-associated membrane protein
+JPH4: encoding protein Junctophilin 4
+LINC00520: a long non-coding RNA
+MAPK1IP1L: encoding protein MAPK-interacting and spindle-stabilizing protein-like
+MIA2: encoding protein Melanoma inhibitory activity protein 2
+MIR494 encoding protein MicroRNA 494
+MIR3173: encoding protein MicroRNA 3173
+MIS18BP1: encoding protein MIS18 binding protein 1
+MOAP1: encoding protein Modulator of apoptosis 1
+MYH7: myosin heavy chain beta (MHC-β) isoform[12]
+NPC2: Niemann-Pick disease, type C2
+NUBPL: encoding protein Iron-sulfur protein NUBPL (IND1)
+OSGEP: encoding enzyme Probable O-sialoglycoprotein endopeptidase
+PAPOLA: encoding enzyme Poly(A) polymerase alpha
+PCNX: encoding protein Pecanex-like protein 1
+PELI2: encoding protein Protein pellino homolog 2
+PSEN1: presenilin 1 (Alzheimer disease 3)
+RIOX1: encoding protein RIOX1
+RTRAF: encoding protein protein RTRAF
+RPL10L: encoding protein 60S ribosomal protein L10-like
+SERPINA1: serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1
+SIX6OS1: encoding protein SIX6OS1
+SGPP1: encoding enzyme Sphingosine-1-phosphate phosphatase 1
+TC2N: encoding protein Tandem C2 domains nuclear protein
+TCL1B: encoding protein T-cell leukemia/lymphoma protein 1B
+TIMM9: encoding enzyme Mitochondrial import inner membrane translocase subunit Tim9
+TMED10: encoding protein Transmembrane emp24 domain-containing protein 10
+TMEM260: encoding protein TMEM260
+TRAJ56 encoding protein T cell receptor alpha joining 56
+TSHR: thyroid stimulating hormone receptor
+TUNAR: a long non-coding RNA
+VASH1: encoding protein Vasohibin-1
+VIPAS39: encoding protein VIPAS39
+WARS: encoding enzyme Tryptophanyl-tRNA synthetase, cytoplasmic
+YLPM1: encoding protein YLP motif-containing protein 1
+ZBTB1: encoding protein Zinc finger and BTB domain containing 1
+ZFHX2: encoding protein Zinc finger homeobox 2
+ZNF839: encoding protein Zinc finger protein 839

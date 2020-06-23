@@ -1,0 +1,131 @@
+ADTRP: encoding protein Androgen-dependent TFPI-regulating protein
+APOM: encoding protein Apolipoprotein M (6p21.33)
+TSBP1: encoding protein TSBP1 (6p21.32)
+C6orf62: chromosome 6 open reading frame 62 (6p22.3)
+C6orf89: chromosome 6 open reading frame 89 (6p21.2)
+CDKAL1: CDK5 regulatory subunit associated protein 1 like 1 (6p22.3)
+COL11A2: collagen, type XI, alpha 2(6p21.3)
+CYP21A2: cytochrome P450, family 21, subfamily A, polypeptide 2 (6p21.33)
+DHX16: DEAH-box helicase 16 (6p21.33)
+DOM3Z: Decapping exoribonuclease (6p21.33)
+DSP: Desmoplakin gene linked to cardiomyopathy (6p24.3)
+ELOVL5: ELOVL fatty acid elongase 5 (6p12.1)
+FBXO9: F-box protein 9 (6p12.1)
+G6B: Protein G6b (6p21.33)
+GCNT2: N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase (6p24.3)
+GMDS: GDP-mannose 4,6-dehydratase (6p25.3)
+HCG4P11: HLA complex group 4 pseudogene 11
+HFE: hemochromatosis (6p22.2)
+HIST1H2AH: histone cluster 1 H2A family member h (6p22.1)
+HLA-A, HLA-B, HLA-C: major histocompatibility complex (MHC), class I, A, B, and C loci. (6p21.3)
+HLA-DQA1 and HLA-DQB1 form HLA-DQ heterodimer MHC class II, DQ: Celiac1, IDDM (6p21.3)
+HLA-DRA, HLA-DRB1, HLA-DRB3, HLA-DRB4, HLA-DRB5 forms HLA-DR, heterodimer MHC class II, DR (6p21.3)
+HLA-DPA1 and HLA-DPB1 forms HLA-DP, MHC class II, DP (6p21.3)
+HLA-Cw*06:02: gene variation related to psoriasis (6p21.3)
+LY6G6E encoding protein Lymphocyte antigen 6 complex, locus G6E (pseudogene) (6p21.33)
+LST1: leukocyte specific transcript 1 (6p21.33)
+MIR4640: microRNA 4640 (6p21.33)
+MLIP: muscular LMNA interaction protein (6p12.1)
+MRPS18B: mitochondrial ribosomal protein S18B (6p21.33)
+MUT: methylmalonyl Coenzyme A mutase (6p12.3)
+NHLRC1: NHL repeat containing E3 ubiquitin protein ligase 1 (6p22.3)
+NOL7: nucleolar protein 7 (6p23)
+NQO2: N-ribosyldihydronicotinamide:quinone reductase 2 (6p25.2)
+NRSN1: neurensin 1 (6p22.3)
+NUDT3: nudix hydrolase 3 (6p21.31)
+PFDN6: prefoldin subunit 6 (6p21.32)
+PHACTR1: phosphatase and actin regulator 1 (6p24.1)
+PKHD1: polycystic kidney and hepatic disease 1 (autosomal recessive) (6p21.2-p12)
+PRICKLE4: prickle planar cell polarity protein 4 (6p21.1)
+PRSS16: protease, serine 16 (6p22.1)
+PSMB8-AS1: PSMB8 antisense RNA 1 (head to head) (6p21.32)
+RIPOR2: RHO family interacting cell polarization regulator 2 (6p22.3)
+RPL10A: encoding protein 60S ribosomal protein L10a (6p21.31)
+SKIV2L: Ski2 like RNA helicase (6p21.33)
+SSR1: signal sequence receptor subunit 1 (6p24.3)
+TCF19: transcription factor 19 (6p21.33)
+TCP11: t-complex 11 (6p21.31)
+TJAP1: tight junction associated protein 1 (6p21.1)
+TP53COR1 encoding protein Tumor protein p53 pathway corepressor 1 (non-protein coding)
+TMEM151B: encoding protein Transmembrane protein 151B
+TNXB: tenascin XB (6p21.3)
+TRAM2: translocation associated membrane protein 2 (6p12.2)
+UBR2: ubiquitin protein ligase E3 component n-recognin 2 (6p21.2)
+UNC5CL: encoding protein Unc-5 homolog C (C. elegans)-like
+VEGF: vascular endothelial growth factor A (angiogenic growth factor) (6p21.1)
+VPS52: GARP complex subunit
+ZNF76: zinc finger protein 76 (6p21.31)
+ZNF193: zinc finger protein 193 (6p22.1)
+ZNRD1: zinc ribbon domain containing 1 (6p22.1)
+AIM1: encoding protein Absent in melanoma 1 protein (6q21)
+AIG1: encoding protein Androgen-induced protein 1 (6q24.2)
+AKIRIN2: akirin 2 (6q15)
+ARG1: arginase 1 (6q23.2)
+BCKDHB: branched-chain keto acid dehydrogenase E1, beta polypeptide (maple syrup urine disease) (6q14.1)
+BMIQ3: body mass index QTL 3
+TMEM242 encoding transmembrane protein TMEM242
+C6orf58: chromosome 6 open reading frame 58 (6q22.33)
+CFAP206: encoding protein Cilia And Flagella Associated Protein 206
+CMD1F: cardiomyopathy, dilated 1F
+CMD1K: cardiomyopathy, dilated 1K
+CNR1: cannabinoid 1 receptor (6q14-q15)[13]
+DFNB38: deafness, autosomal recessive 38
+DYX4: dyslexia susceptibility 4
+ECT2L: encoding protein Epithelial cell transforming sequence 2 oncogene-like
+ESR1: Estrogen receptor 1 (6q25)
+EYA4: eyes absent homolog 4 (Drosophila)(6q23.2)
+FBXL4: F-box and leucine rich repeat protein 4 (6q16.1-q16.2)
+FEB5: febrile convulsions 5
+HACE1: HECT domain and Ankyrin repeat containing, E3 ubiquitin protein ligase 1 (6q21)
+HEBP2: heme binding protein 2 (6q24.1)
+IDDM8: insulin dependent diabetes mellitus 8
+IDDM15: insulin dependent diabetes mellitus 15
+IFNGR: interferon-γ receptor gene (6q23-q24)
+IGF2R: insulin-like growth factor 2 receptor (6q25.3)
+IMPG1: interphotoreceptor matrix proteoglylcan 1 (6q14.1)
+LIN28B: lin-28 homolog B (6q16.3-q21)
+MAN1A1: mannosidase alpha class 1A member 1 (6q22.31)
+MB21D1: encoding protein Mab-21 domain containing 1
+MCDR1: macular dystrophy, retinal, 1
+MDN1: midasin AAA ATPase 1 (6q15)
+MOXD1: monooxygenase DBH like 1 (6q23.2)
+MTO1: mitochondrial tRNA translation optimization 1 (6q13)
+MRT18: mental retardation, non-syndromic, autosomal recessive
+MRT28: mental retardation, non-syndromic, autosomal recessive
+MTRF1L: mitochondrial translational release factor 1 like (6q25.2)
+MYO6: myosin VI (6q14.1)
+OA3: ocular albinism 3
+OPRM1: μ-opioid receptors (6q24-q25)
+OTSC7: otosclerosis 7
+PLG: plasminogen (6q26)
+PBCRA1
+PARK2: Parkinson disease (autosomal recessive, juvenile) 2, parkin (6q26)
+PCMT1: protein-L-isoaspartate (D-aspartate) O-methyltransferase (6q25.1)
+PERP: p53 apoptosis effector related to PMP-22 (6q23.3)
+PKIB: cAMP-dependent protein kinase inhibitor beta (6p22.31)
+PLAGL1: (6q24.2)
+RCD1: retinal cone dystrophy 1
+RP63: retinitis pigmentosa 63
+SASH1: SAM and SH3 domain containing 1 (6q24.3-q25.1)
+SCZD5: schizophrenia disorder 5
+SEN6: senescence (cellular)-related 6
+SENP6: SUMO1/sentrin specific peptidase 6 (6q14.1)
+SERAC1: serine active site containing 1 (6q25.3)
+SERINC1: serine incorporator 1 (6q22.31)
+SF3B5: splicing factor 3b subunit 5 (6q24.2)
+SMAP1: small ArfGAP 1 (6q13)
+SOBP: sine oculis binding protein homolog (6q21)
+SPG25: spastic paraplegia 25
+ST8:suppression of tumorigenicity 8
+SYNJ2: synaptojanin 2 (6q25.3)
+T: T brachyury transcription factor (more commonly known as the T gene) linked to Hepatocellular carcinoma and Chordoma (6q27)[14]
+TAAR1: trace amine associated receptor 1 (6q23.1)
+TAAR2: trace amine associated receptor 2 (6q24)
+TMEM200A: encoding protein Transmembrane protein 200A
+TSPYL1: TSPY like 1 (6q22.1)
+UNC93A: encoding protein Unc-93 homolog A (C. elegans)
+VNN1: vanin 1 (6q23.2)
+VNN2: vanin 2 (6q23.2)
+VTA1: Vesicle trafficking 1 (6q24.1-2)
+ZC2HC1: encoding protein Zinc finger C2HC-type containing 1B
+ZDHHC14: encoding protein Zinc finger, DHHC-type containing 14

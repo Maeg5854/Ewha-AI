@@ -1,0 +1,108 @@
+ACAD10: encoding protein Acyl-CoA dehydrogenase family, member 10
+ACSS3: encoding protein Acyl-CoA synthetase short-chain family member 3
+ACVRL1: activin A receptor type II-like 1f
+APOF: encoding protein Apolipoprotein F
+APOLD1: apolipoprotein L domain containing 1
+ARL6IP4: encoding protein ADP-ribosylation-like factor 6 interacting protein 4
+ARPC3: encoding protein Actin-related protein 2/3 complex subunit 3
+Asun: encoding protein Protein asunder homolog (Asun)
+ATG101: Autophagy-related protein 101
+BCAT1: encoding protein Branched chain amino acid transaminase 1
+C12orf42: encoding protein uncharacterised chromosome 12 open reading frame 42
+C12orf43: encoding protein. Uncharacterized.
+C12orf60: encoding protein Uncharacterized protein C12orf60
+CALCOCO1: Calcium-binding and coiled-coil domain-containing protein 1
+CBX5: chromobox homolog 5
+CCDC53: Coiled-coil domain-containing protein 53
+CKAP4: Cytoskeleton associated protein 4
+CNOT2: encoding protein CCR4-NOT transcription complex subunit 2
+CNPY2: encoding protein Canopy FGF signaling regulator 2
+CCDC42B: encoding protein Coiled Coil Domain Containing protein 42B
+COL2A1: collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)
+CRACR2A: encoding protein Calcium release activated channel regulator 2A
+CSRP2: Cysteine and glycine-rich protein 2
+DDX23: DEAD-box helicase 23
+DDX47: DEAD-box helicase 47
+DHH: Desert hedgehog protein
+DPPA3: Developmental pluripotency-associated protein 3
+DPY19L2: encoding protein Dpy-19-like 2 (C. elegans)
+E2F7: E2F transcription factor 7
+EMP1: Epithelial membrane protein 1
+ERGIC2: encoding protein a protein of 377 amino acid residues
+FAM60A: encoding protein FAM60A
+FAM186B: encoding protein Protein FAM186B
+GPD1: encoding protein Glycerol-3-phosphate dehydrogenase 1
+GOLT1B: Golgi transport 1B
+GPN3: encoding enzyme GPN-loop GTPase 3
+HNF1A-AS1: encoding protein HNF1A antisense RNA 1
+HPD: 4-hydroxyphenylpyruvate dioxygenase
+IFFO1: encoding protein Intermediate filament family orphan 1
+KANSL2: encoding protein KAT8 regulatory NSL complex subunit 2 (KANSL2)
+KCNA1: potassium voltage-gated channel subfamily A member 1 at 12p13.32
+KDM2B: encoding protein Lysine (K)-specific demethylase 2B
+KERA: keratocan
+KRAS: V-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog
+LARP4: encoding protein La-related protein 4
+LEPREL2: encoding enzyme Prolyl 3-hydroxylase 3
+LMBR1L: encoding protein Protein LMBR1L
+LRRC23: encoding protein Leucine-rich repeat-containing protein 23
+LRRIQ1: encoding protein Leucine-rich repeats and IQ motif containing 1
+LRRK2: leucine-rich repeat kinase 2
+MBOAT5: encoding enzyme Lysophospholipid acyltransferase 5
+METTL1: encoding enzyme tRNA (guanine-N(7)-)-methyltransferase
+MFAP5: encoding protein Microfibrillar-associated protein 5
+MIR196A2: encoding microRNA MicroRNA 196a-2
+MMAB: methylmalonic aciduria (cobalamin deficiency) cblB type
+MON2: encoding protein Protein MON2 homolog
+MUCL1: encoding protein Mucin-like protein 1
+MYO1A: myosin IA
+NANOG: NK-2 type homeodomain gene
+NAP1L1: encoding protein Nucleosome assembly protein 1-like 1
+NRIP2: encoding protein Nuclear receptor-interacting protein 2
+NUDT4: encoding enzyme Diphosphoinositol polyphosphate phosphohydrolase 2
+PAH: phenylalanine hydroxylase
+PIP4K2C: encoding protein Phosphatidylinositol-5-phosphate 4-kinase, type II, gamma
+PIWIL1: encoding protein Piwi-like protein 1
+POP5: encoding enzyme Ribonuclease P/MRP protein subunit POP5
+PPHLN1: encoding protein Periphilin-1
+PPP1R12A: protein phosphatase 1, regulatory (inhibitor) subungfdit 12A
+PRB1: encoding protein Basic salivary proline-rich protein 1
+PRB3: encoding protein Basic salivary proline-rich protein 3
+PRB4: encoding protein Basic salivary proline-rich protein 4
+PZP: encoding protein Pregnancy zone protein
+PRH1: encoding protein Salivary acidic proline-rich phosphoprotein 1/2
+PRH2: encoding protein Proline-rich protein HaeIII subfamily 2
+PRR4: encoding protein Proline-rich protein 4
+PTMS: encoding protein Parathymosin
+PTPN11: protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)
+PUS1: encoding enzyme tRNA pseudouridine synthase A
+PUS7L: encoding enzyme Pseudouridylate synthase 7 homolog-like protein
+RAB3IP: encoding protein RAB3A-interacting protein
+RASSF8: encoding protein Ras association domain-containing protein 8
+RASSF9: encoding protein Ras association domain-containing protein 9
+RERG: encoding protein RAS-like, estrogen-regulated, growth inhibitor
+RNF34: encoding enzyme E3 ubiquitin-protein ligase RNF34
+SARNP: SAP domain-containing ribonucleoprotein
+Serpina3f: encoding protein Serine (or cysteine) peptidase inhibitor, clade A, member 3F
+SLC8B1: solute carrier family 8 member B1
+TBC1D15: encoding protein TBC1 domain family member 15
+TBX3: encoding protein T-box transcription factor 3
+TCHP: encoding protein Trichoplein keratin filament-binding protein
+TESPA1: encoding protein Thymocyte expressed, positive selection associated 1
+THAP2: encoding protein THAP domain-containing protein 2
+TMTC1: encoding protein Transmembrane and tetratricopeptide repeat containing 1
+TMEM117: encoding protein Transmembrane protein 117
+TRAFD1: encoding protein TRAF-type zinc finger domain-containing protein 1
+TSFM: encoding protein Elongation factor Ts, mitochondrial
+TWF1: twinfilin-1
+UNQ1887:
+USP52: encoding enzyme PAB-dependent poly(A)-specific ribonuclease subunit 2
+UTP20: encoding protein Small subunit processome component 20 homolog
+VEZT: encoding protein Vezatin
+YAF2: encoding protein YY1-associated factor 2
+ZCCHC8: encoding protein Zinc finger CCHC domain-containing protein 8
+ZFC3H1: encoding protein Zinc finger C3H1-type containing
+ZNF26: encoding protein Zinc finger protein 26
+ZNF84: encoding protein Zinc finger protein 84
+ZNF268: encoding protein Zinc finger protein 268
+ZNF664: encoding protein Zinc finger protein 664

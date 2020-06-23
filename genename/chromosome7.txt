@@ -1,0 +1,93 @@
+ACTR3B: actin-related protein 3B
+AEBP1: AE binding protein 1
+AGK: encoding enzyme mitochondrial acylglycerol kinase
+AASS: encoding enzyme Alpha-aminoadipic semialdehyde synthase, mitochondrial
+ARHGEF35: encoding protein Rho guanine nucleotide exchange factor (GEF) 35
+BCAP29: B-cell receptor-associated protein 29
+BRAT1: BRCA1-associated ATM activator 1
+GET4: encoding protein GET4
+C7orf25: protein UPF0415
+C7orf31: chromosome 7 open reading frame 31
+MAP11: encoding protein Microtubule-associated protein 11
+CALU: Calumenin
+CDCA7L: Cell division cycle-associated 7-like protein
+CNOT4: CCR4-NOT transcription complex, subunit 4
+CPED1: cadherin like and PC-esterase domain containing 1
+CPVL: carboxypeptidase, vitellogenic like
+CROT: Peroxisomal carnitine O-octanoyltransferase
+DDX56: DEAD-box helicase 56
+DMTF1: Cyclin D binding myb like transcription factor 1
+ECOP: EGFR-coamplified and overexpressed protein
+EZH2: encoding enzyme histone-lysine N-methyltransferase for histone h3 lysine 27
+FAM71F2: family with sequence similarity 71 member F2
+FAM185A: family with sequence similarity 185 member A
+FAM200A: family with sequence similarity 200 member A
+FBXO24: F-box only protein 24
+GBAS: Glioblastoma amplified sequence; Protein NipSnap homolog 2
+GLCCI1: Glucocorticoid-induced transcript 1 protein
+ICA1: islet cell autoantigen 1
+ING3: inhibitor of growth protein 3
+INTS1: encoding protein Integrator complex subunit 1
+IQCE: IQ domain-containing protein E
+KDM7A: encoding protein Lysine demethylase 7A
+LRRC17: leucine-rich repeat containing protein 17
+LSM5: U6 small nuclear RNA and mRNA degradation associated
+LUC7L2: putative RNA-binding protein Luc7-like 2
+MDFIC: MyoD family inhibitor domain containing
+METTL2B: methyltransferase-like protein 2B
+MINDY4: MINDY lysine 48 deubiquitinase 4
+MIR96: microRNA 96
+MOSPD3: motile sperm domain containing 3
+MTERF: mitochondrial transcription termination factor 1
+NOM1: nucleolar protein with MIF4G domain 1
+NUDCD3: NudC domain-containing protein 3
+NUPL2: nucleoporin-like 2
+NXPH1: neurexophilin-1
+PDAP1: PDGFA associated protein 1
+PHTF2: putative homeodomain transcription factor 2
+PLOD3: procollagen-lysine,2-oxoglutarate 5-dioxygenase 3
+POM121: POM121 transmembrane nucleoporin
+POP7: ribonuclease P protein subunit p20
+PPP1R17: protein phosphatase 1 regulatory subunit 17
+PSPH: phosphoserine phosphatase
+PURB: purine-rich element binding protein B
+PVRIG: encoding protein Poliovirus receptor related immunoglobulin domain containing
+RADIL: ras-associating and dilute domain-containing protein
+RCP9: DNA-directed RNA polymerase III subunit RCP9
+REPIN1: replication initiator 1
+RNF216-IT1: encoding protein RNF216 intronic transcript 1
+SCIN: scinderin
+SCRN1: secernin 1
+SOSTDC1: sclerostin domain containing 1
+SPDYE1: speedy/RINGO cell cycle regulator family member E1
+SSC4D: scavenger receptor cysteine rich family member with 4 domains
+STEAP1: six transmembrane epithelial antigen of the prostate 1
+STEAP2: six transmembrane epithelial antigen of the prostate 2
+STEAP4: six transmembrane epithelial antigen of the prostate 4
+STYXL1: serine/threonine/tyrosine-interacting-like protein 1
+SUMF2: sulatase-modifying factor 2
+SYPL1: synaptophysin-like protein 1
+TARP: TCR gamma alternate reading frame protein
+TBRG4: transforming growth factor beta regulator 4
+TECPR1 encoding protein Tectonin beta-propeller repeat containing 1
+TMED4: transmembrane emp24 domain-containing protein 4
+TMEM130: transmembrane protein 130
+TMEM196 encoding protein Transmembrane protein 196
+TRBC1 encoding protein T cell receptor beta constant 1
+TRBC2 encoding protein T cell receptor beta constant 2
+TRIL: TRL4 interactor with leucine rich repeats
+URG4: up-regulated gene 4
+WBSCR17: polypeptide N-acetylgalactosaminyltransferase 17
+WDR91 encoding protein WD repeat domain 91
+ZC3HAV1: zinc finger CCCH-type containing
+ZC3HC1: zinc finger C3HC-type containing 1
+ZKSCAN1: zinc finger protein with KRAB and SCAN domains 1
+ZKSCAN5: zinc finger protein with KRAB and SCAN domains 5
+ZMIZ2: zinc finger MIZ domain-containing protein 2
+ZNF277P: zinc finger protein 277
+ZNF394: zinc finger protein 394
+ZNF398: zinc finger protein 398
+ZNF727: encoding protein Zinc finger protein 727
+ZNF786: encoding protein Zinc finger protein 786
+ZRF1: DnaJ heat shock protein family (Hsp40) member C2
+ZSCAN21: zinc finger and SCAN domain-containing protein 21

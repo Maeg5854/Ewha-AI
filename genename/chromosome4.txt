@@ -1,0 +1,103 @@
+AASDH: aminoadipate-semialdehyde dehydrogenase
+ACVR1: activin-like kinase 2 (ALK-2)
+ACOX3: encoding enzyme Peroxisomal acyl-coenzyme A oxidase 3
+AGPAT9: encoding enzyme Glycerol-3-phosphate acyltransferase 3 a.k.a. 1-acylglycerol-3-phosphate O-acyltransferase 9
+ANK2: ankyrin 2, neuronal
+APBB2: encoding protein Amyloid beta A4 precursor protein-binding family B member 2
+ART3: encoding enzyme Ecto-ADP-ribosyltransferase 3
+ASAHL: encoding enzyme N-acylethanolamine-hydrolyzing acid amidase
+FAM198B: encoding protein Protein ENED
+ZGRF1: zinc-finger GRF-type containing 1
+CCDC109B: Coiled-coil domain containing 109B
+Complement Factor I: Complement Factor I
+CRMP1: Collapsin response mediator protein 1, a member of CRMP family
+CSN2: Beta-casein
+CXCL1: chemokine (C-X-C motif) ligand 1, scyb1
+CXCL2: chemokine (C-X-C motif) ligand 2, scyb2
+CXCL3: chemokine (C-X-C motif) ligand 3, scyb3
+CXCL4: chemokine (C-X-C motif) ligand 4, Platelet factor-4, PF-4, scyb4
+CXCL5: chemokine (C-X-C motif) ligand 5, scyb5
+CXCL6: chemokine (C-X-C motif) ligand 6, scyb6
+CXCL7: chemokine (C-X-C motif) ligand 7, PPBP, scyb7
+CXCL8: chemokine (C-X-C motif) ligand 8, interleukin 8 (IL-8), scyb8
+CXCL9: chemokine (C-X-C motif) ligand 9, scyb9
+CXCL10: chemokine (C-X-C motif) ligand 10, scyb10
+CXCL11: chemokine (C-X-C motif) ligand 11, scyb11
+CXCL13: chemokine (C-X-C motif) ligand 13, scyb13
+CYTL1: Cytokine-like 1
+DCUN1D4: Defective in cullin neddylation 1 domain containing 4
+DHX15: DEAH-box helicase 15
+DKK2: Dickkopf-related protein 2
+DUX4: Thought to be inactive but 2010 research shows a key role in FSHD[13]
+ELMOD2: Elmo domain-containing 2
+EMCN: Endomucin
+EVC: Ellis van Creveld syndrome
+EVC2: Ellis van Creveld syndrome 2 (limbin)
+Factor XI: Mutations cause Haemophilia C
+FAM47E-STBD1: FAM47E-STBD1 readthrough
+FAM114A1: Family with sequence similarity 114, member A1
+FAM149A: Family with sequence similarity 149, member A
+FAM193A: Family with sequence similarity 193, member A
+FAM221B: Family with sequence similarity 221, member B
+FGF2: Fibroblast growth factor 2 (basic fibroblast growth factor)
+FGFR3: fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism, bladder cancer)
+FGFRL1: fibroblast growth factor receptor-like 1
+FRG1: FSHD region gene 1
+GUF1: GUF1 homolog, GTPase
+HCL2 (also called RHA or RHC): related to red hair
+HTT (Huntingtin): huntingtin protein (Huntington's disease)
+IGJ: linker protein for immunoglobulin alpha and mu polypeptides
+INTS12: Integrator complex subunit 12
+KDR: Kinase insert domain receptor (Vascular endothelial growth factor receptor 2)
+KIAA1530: UV stimulated scaffold protein A
+LCORL: Ligand dependent nuclear receptor corepressor like
+LDB2: LIM domain-binding protein 2
+LGI2: Leucine-rich repeat LGI family member 2
+LOC100505912 encoding protein Uncharacterized LOC100505912
+LSM6: U6 snRNA-associated Sm-like protein
+LYAR: Cell growth-regulating nucleolar protein
+MAB21L2: Mab-21-like 2
+Marcksl1: encoding protein MARCKS-like 1
+MAML3: Mastermind-like 3
+MFSD7: encoding protein Major facilitator superfamily domain containing 7
+MIR1269A: microRNA 1269a
+MLF1IP: Centromere protein U
+MMAA: methylmalonic aciduria (cobalamin deficiency) cblA type
+MTHFD2L: NAD-dependent methylenetetrahydrofolate dehydrogenase 2-like protein
+MYL5: Myosin light chain 5
+NOA1: encoding protein Nitric oxide associated 1
+NUDT6: nudix hydrolase 6
+NUDT9: nudix hydrolase 9
+OTUD4: OTU domain-containing protein 4
+PABPC4L: encoding protein Poly(A) binding protein, cytoplasmic 4-like
+PARM1: Prostate androgen-regulated mucin-like protein 1
+PHOX2B: codes for a homeodomain transcription factor
+PI4K2B: Phosphatidylinositol 4-kinase type 2-beta
+PKD2: polycystic kidney disease 2 (autosomal dominant)
+PLK4: Serine/threonine-protein kinase PLK4
+PSAPL1: encoding protein Prosaposin-like 1 (gene/pseudogene)
+QDPR: quinoid dihydropteridine reductase
+RBM47: RNA binding motif protein 47
+SDAD1: protein SDA1 homolog
+SEC24B: Sec24 homolog B
+SEC24D: Sec24 homolog D
+SEPT11: Septin-11
+SLC9B2: solute carrier family 9 member B2
+SLC10A4: solute carrier family 10 member 4
+SMIM20: encoding protein Small integral membrane protein 20
+SNCA: synuclein, alpha (non A4 component of amyloid precursor)
+SPATA5: Spermatogenesis-associated protein 5
+STATH: gene with protein product
+TACC3: Transforming acidic coiled-coil-containing protein 3
+TENM3: Teneurin transmembrane protein 3
+THAP6: THAP domain-containing protein 6
+TMPRSS11D: Transmembrane protease, serine 11D
+TNIP2: TNFAIP3-interaction protein 2
+UCHL1: ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+UGT8: UDP glycosyltransferase 8
+UNC5C: netrin receptor UNC5C
+USP38: encoding protein Ubiquitin specific peptidase 38
+USP53: ubiquitin specific peptidase 53
+UTP3: small subunit processome component
+WFS1: Wolfram syndrome 1 (wolframin)
+ZNF621: encoding protein Zinc finger protein 621

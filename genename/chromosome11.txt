@@ -1,0 +1,136 @@
+ACAT1: acetyl-Coenzyme A acetyltransferase 1 (acetoacetyl Coenzyme A thiolase)
+ACRV1: encoding protein Acrosomal protein SP-10
+AKIP1: A kinase interacting protein 1
+ALKBH3 encoding protein AlkB homolog 3, alpha-ketoglutaratedependent dioxygenase
+AMOTL1: angiomotin-like protein 1
+AMPD3: encoding enzyme AMP deaminase 3
+API5: encoding protein Apoptosis inhibitor 5
+APLNR: Apelin receptor (APJ receptor)
+APOA4: apolipoprotein A-IV
+ARCN1 encoding protein Archain 1
+ASRGL1: encoding enzyme L-asparaginase
+ATM: ataxia telangiectasia mutated (includes complementation groups A, C and D)
+B3GNT1: encoding enzyme N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase
+BDNF: secretes BDNF, a member of the Neurotrophin family of proteins
+C11orf1: encoding protein
+C11orf16: encoding protein Uncharacterized protein C11orf16
+C11orf49: encoding protein UPF0705 protein C11orf49
+C11orf52 encoding protein C11orf52
+C11orf54: encoding protein Ester hydrolase C11orf54
+C11orf86: encoding protein Uncharacterized protein C11orf86
+C1QTNF4 encoding protein C1q and tumor necrosis factor related protein 4
+C1QTNF5: encoding protein C1q and tumor necrosis factor related protein 5
+CAPRIN1: encoding protein, cell cycle associated protein 1
+CCDC90B: coiled coil domain containing 90B
+CCL9: Chemokine (C-C motif) ligand 9
+CD81: cluster of differentiation 81
+CDHR5: cadherin related family member 5
+COMMD9: COMM domain-containing protein 9
+CPSF7: Cleavage and polyadenylation specificity factor subunit 7
+CPT1A: carnitine palmitoyltransferase 1A (liver)
+CREBZF encoding protein CREB/ATF bZIP transcription factor
+DAK: Triokinase/FMN cyclase
+DDI1: encoding protein DNA-damage inducible 1 homolog 1 (S. cerevisiae)
+DGAT2 encoding protein Diacylglycerol O-acyltransferase 2
+DHCR7: 7-dehydrocholesterol reductase
+DKK3: Dickkopf-related protein 3
+DPF2: Double PHD fingers 2
+DRD4: Dopamine receptor D4 at 11p15.5
+DSCAML1: encoding protein Down syndrome cell adhesion molecule like 1
+EI24: Etoposide-induced protein 2.4 homolog
+FAM118B: encoding protein Family with sequence similarity 118, member B
+FAM76B: Family with sequence similarity 76 member B
+FAR1: fatty acyl-coA reductase 1
+FAT3: fat atypical cadherin 3
+FHIP: FTS and Hook-interacting protein
+FNBP4: Formin-binding protein 4
+GLB1L3: galactosidase, beta 1-like 3
+GLYAT: Glycine-N-acyltransferase
+GLYATL2 encoding protein Glycine-N-acyltransferase like 2
+GPHA2: Glycoprotein hormone alpha-2
+GYLTL1B: Glycosyltransferase-like protein LARGE2
+HBB: hemoglobin, beta
+HBBP1: encoding protein Hemoglobin, beta pseudogene 1
+HIKESHI: chromosome 11, open reading frame 73
+HMBS: hydroxymethylbilane VIIA
+HRASLS3: adipose phospholipase A2
+HTATIP2: HIV-1 Tat interactive protein 2
+HYOU1: hypoxia upregulated protein 1
+IFITM2 encoding protein Interferon induced transmembrane protein 2
+IFT46: intraflagellar transport protein 46 homolog
+INS: insulin gene [12]
+KDM2A: lysine demethylase 2A
+KIAA1549L encoding protein KIAA1549-like
+LPXN: leupaxin
+LRFN4 encoding protein Leucine rich repeat and fibronectin type III domain containing 4
+MADD: MAP kinase-activating death domain protein
+MEN1: Multiple endocrine neoplasia type 1
+MIRLET7A2: microRNA let-7a-2
+MMP7: Matrix metalloproteinases (MMP family)
+MOGAT2: monoacylglycerol O-acyltransferase 2
+MTRNR2L8: encoding protein MT-RNR2-like 8
+NADSYN1: NAD synthetase 1
+NAP1L4: nucleosome assembly protein 1-like 4
+NFRKB: nuclear factor related to kappa-B binding protein
+NNMT: nicotinamide N-methyltransferase
+NRGN: neurogranin
+P53AIP1: p53-regulated apoptosis-inducing protein 1
+PAX6: paired box 6
+PCNX3 encoding protein Pecanex homolog 3
+PGA3 encoding protein Pepsinogen 3, group I (pepsinogen A)
+PIWIL4 encoding protein Piwi like RNA-mediated gene silencing 4
+PRR5L: proline rich 5 like
+PTPRCAP: protein tyrosine phosphatase receptor type C associated protein
+PTS: 6-pyruvoyltetrahydropterin synthase
+QSER1: glutamine serine rich protein 1
+RAG1/RAG2: recombination activating genes
+RELT: tumor necrosis factor recepteor
+REXO2: RNA exonuclease 2
+RNH1: ribonuclease inhibitor 1
+RNU2-2: encoding protein RNA, U2 small nuclear 2
+ROM1: retinal outer segment membrane protein 1
+RPL27A: encoding protein 60S ribosomal protein L27a
+RPL36A: encoding protein 60S ribosomal protein L36a
+RSF1: remodeling and spacing factor 1
+SAA1: serum amyloid A1
+SAA2: serum amyloid A2
+SAC3D1: SAC3 domain-containing protein 1
+SART1: squamous cell carcinoma antigen recognized by T-cells 1
+SBF2: SET binding factor 2
+SCGB1D2: secretoglobin family 1D member 2
+SESN3 encoding protein Sestrin 3
+SIDT2 encoding protein SID1 transmembrane family member 2
+SLC17A6: encoding protein Solute carrier family 17 (vesicular glutamate transporter), member 6
+SMAP: small acidic protein
+SMPD1: sphingomyelin phosphodiesterase 1, acid lysosomal (acid sphingomyelinase)
+SPA17: sperm autoantigenic protein 17
+SRPRA: Srp receptor alpha subunit
+TAF1D: TATA box binding protein associated factor RNA polymerase 1 subunit D
+TALDO1 encoding protein Transaldolase 1
+TBRG1: transforming growth factor beta regulator 1
+TECTA: tectorin alpha (nonsyndromic deafness)
+TH: tyrosine hydroxylase
+THRSP: thyroid hormone inducible hepatic protein
+THYN1: thymocyte nuclear protein 1
+TIMM10: translocase of inner mitochondrial membrane 10
+TIMM10B: Mitochondrial import inner membrane translocase subunit Tim9 B
+TM7SF2: transmembrane 7 superfamily member 2
+TMEM109: encoding protein Transmembrane protein 109
+TMEM123: transmembrane protein 123
+TMEM126B: transmembrane protein 126B
+TMEM134: transmembrane protein 134
+TMEM25: transmembrane protein 25
+TP53I11: tumor protein 53 inducible protein 11
+TRAPPC4: trafficking protein particle complex subunit 4
+TRPT1: tRNA 2'-phosphotransferase 1
+UNC93B1: Unc-93 homolog B1
+UPK2: uroplakin-2
+USH1C: Usher syndrome 1C (autosomal recessive, severe)
+USP47: ubiquitin specific peptidase 47
+UVRAG: UV radiation resistance associated
+VPS26B: vacuolar protein sorting 26 homolog B
+VSIG2: V-set and immunoglobulin domain containing 2
+WT1: Wilms tumor protein
+YIF1A: Yip1 interacting factor homolog A
+ZFP91-CNTF
+ZNF408: zinc finger protein 408

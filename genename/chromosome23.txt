@@ -1,0 +1,88 @@
+APOO: encoding protein Apolipoprotein O
+ARMCX6: encoding protein Armadillo repeat containing X-linked 6
+BEX1: encoding protein Brain-expressed X-linked protein 1
+BEX2: encoding protein Brain-expressed X-linked protein 2
+BEX4: encoding protein Brain expressed, X-linked 4
+CCDC120: encoding protein Coiled coil domain containing protein 120
+CCDC22: encoding protein Coiled-coil domain containing 22
+CD99L2: CD99 antigen-like protein 2
+CHRDL1: encoding protein Chordin-like 1
+CMTX2 encoding protein Charcot-Marie-Tooth neuropathy, X-linked 2 (recessive)
+CMTX3 encoding protein Charcot-Marie-Tooth neuropathy, X-linked 3 (dominant)
+CT45A5: encoding protein Cancer/testis antigen family 45, member A5
+CXorf36: encoding protein hypothetical protein LOC79742
+CXorf40A: Chromosome X open reading frame 40
+CXorf49: chromosome X open reading frame 49. encoding protein
+CXorf66: encoding protein Chromosome X Open Reading Frame 66
+CXorf67: encoding protein Uncharacterized protein CXorf67
+DACH2: encoding protein Dachshund homolog 2
+EFHC2: encoding protein EF-hand domain (C-terminal) containing 2
+ERCC6L encoding protein ERCC excision repair 6 like, spindle assembly checkpoint helicase
+F8A1: Factor VIII intron 22 protein
+FAM120C: encoding protein Family with sequence similarity 120C
+FAM122B: Family with sequence similarity 122 member B
+FAM122C: encoding protein Family with sequence similarity 122C
+FAM127A: CAAX box protein 1
+FAM50A: Family with sequence similarity 50 member A
+FATE1: Fetal and adult testis-expressed transcript protein
+FMR1-AS1: encoding a long non-coding RNA FMR1 antisense RNA 1
+FRMPD3: encoding protein FERM and PDZ domain containing 3
+FUNDC1: encoding protein FUN14 domain containing 1
+FUNDC2: FUN14 domain-containing protein 2
+GATA1: encoding GATA1 transcription factor
+GNL3L encoding protein G protein nucleolar 3 like
+GPRASP2: G-protein coupled receptor-associated sorting protein 2
+GRIPAP1: encoding protein GRIP1-associated protein 1
+HDHD1A: encoding enzyme Haloacid dehalogenase-like hydrolase domain-containing protein 1A
+LAS1L encoding protein LAS1-like protein
+MAGEA2: encoding protein Melanoma-associated antigen 2
+MAGEA5 encoding protein Melanoma antigen family A, 5
+MAGEA8: encoding protein Melanoma antigen family A, 8
+MAGED4B: encoding protein Melanoma-associated antigen D4
+MAGT1: encoding protein Magnesium transporter protein 1
+MBNL3: encoding protein Muscleblind-like protein 3
+MIR222: encoding microRNA MicroRNA 222
+MIR361: encoding microRNA MicroRNA 361
+MIR660: encoding protein MicroRNA 660
+MORF4L2: encoding protein Mortality factor 4-like protein 2
+MOSPD1: encoding protein Motile sperm domain containing 1
+MOSPD2: encoding protein Motile sperm domain containing 2
+NKRF: encoding protein NF-kappa-B-repressing factor
+NRK: encoding enzyme Nik-related protein kinase
+OTUD5: encoding protein OTU deubiquitinase 5
+PASD1: encoding protein PAS domain-containing protein 1
+PAGE1 :encoding a protein of unestablished function
+PBDC1: encoding a protein of unestablished function
+PCYT1B: encoding enzyme Choline-phosphate cytidylyltransferase B
+PIN4: encoding enzyme Peptidyl-prolyl cis-trans isomerase NIMA-interacting 4
+PLAC1: encoding protein Placenta-specific protein 1
+PLP2: encoding protein Proteolipid protein 2
+RPA4: encoding protein Replication protein A 30 kDa subunit
+RPS6KA6: encoding protein Ribosomal protein S6 kinase, 90kDa, polypeptide 6
+RRAGB: encoding protein Ras-related GTP-binding protein B
+SFRS17A: encoding protein Splicing factor, arginine/serine-rich 17A
+SLITRK2: encoding protein SLIT and NTRK-like protein 2
+SMARCA1: encoding protein Probable global transcription activator SNF2L1
+SMS: encoding enzyme Spermine synthase
+SSR4: encoding protein Translocon-associated protein subunit delta
+TAF7l: encoding protein TATA-box binding protein associated factor 7-like
+TCEAL1: encoding protein Transcription elongation factor A protein-like 1
+TCEAL4: encoding protein Transcription elongation factor A protein-like 4
+THOC2: encoding protein THO complex subunit 2
+TMEM29: encoding protein Protein FAM156A
+TMEM47: encoding protein Transmembrane protein 47
+TMLHE: encoding enzyme Trimethyllysine dioxygenase, mitochondrial
+TNMD encoding protein Tenomodulin (also referred to as tendin, myodulin, Tnmd and TeM)
+TRAPPC2P1 encoding protein Trafficking protein particle complex subunit 2
+TREX2: encoding enzyme Three prime repair exonuclease 2
+TRO: encoding protein Trophinin
+TSPYL2: encoding protein Testis-specific Y-encoded-like protein 2
+USP51: encoding enzyme Ubiquitin carboxyl-terminal hydrolase 51
+YIPF6: encoding protein Protein YIPF6
+ZC3H12B: encoding protein ZC3H12B
+ZFP92: encoding protein ZFP92 zinc finger protein
+ZMYM3: encoding protein Zinc finger MYM-type protein 3
+ZNF157: encoding protein Zinc finger protein 157
+ZNF182 encoding protein Zinc finger protein 182
+ZNF275: encoding protein Zinc finger protein 275
+ZNF674: encoding protein Zinc finger protein 674

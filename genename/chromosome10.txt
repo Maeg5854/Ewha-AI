@@ -1,0 +1,90 @@
+AFAP1L2: actin filament associated protein 1 like 2
+ALL1 encoding protein Leukemia, acute lymphocytic, susceptibility to, 1
+ALOX5: Arachidonate 5-Lipoxygenase (processes essential fatty acids to leukotrienes, which are important agents in the inflammatory response; also facilitates development and maintenance of cancer stem cells, slow-dividing cells thought to give rise to a variety of cancers, including leukemia)
+ARHGAP21: rho GTPase activating protein 21
+ARID5B: encoding protein AT-rich interactive domain-containing protein 5B
+ARMH3: Armadillo Like Helical Domain Containing 3
+AS3MT: encoding enzyme Arsenite methyltransferase
+AVPI1: encoding protein Arginine vasopressin-induced protein 1
+C10orf67: chromosome 10 open reading frame 67
+C10orf99: encoding protein Chromosome 10 open reading frame 99
+CAMK1D: calcium/calmodulin-dependent protein kinase ID
+CCAR1: Cell division cycle and apoptosis regulator 1
+CCDC3: Coiled-coil domain-containing protein 3
+CCDC186: encoding protein CCDC186
+CCNY: Cyclin-Y
+CDC123: Cell division cycle protein 123 homolog
+CDH23: cadherin-like 23
+CDNF: cerebral dopamine neurotrophic factor
+COMMD3-BMI1: COMMD3-BMI1 readthrough
+CUTC: Copper homeostasis protein cutC homolog
+CXCL12: chemokine (C-X-C motif) ligand 12, SDF-1, scyb12
+DDX50: DExD-box helicase 50
+DEPP: decidual protein induced by progesterone
+DHX32: DEAH-box helicase 32
+DNAJC12: DnaJ (Hsp40) homolog, subfamily c, member 12
+DNAJC9: DnaJ (Hsp40) homolog, subfamily c, member 9
+DPYSL4: Dihydropyrimidinase-related protein 4
+EBLN1: encoding protein Endogenous Bornavirus-like nucleoprotein 1
+ECD: ecdysoneless cell cycle regulator
+EGR2: early growth response 2 (Krox-20 homolog, Drosophila)
+EIF5AP1: eukaryotic translation initiation factor 5A-like 1
+EPC1: Enhancer of polycomb homolog 1
+ERCC6: excision repair cross-complementing rodent repair deficiency, complementation group 6
+FAM107B: family with sequence similarity 107, member B
+FAM13C: family with sequence similarity 13, member C
+FAM170B: encoding protein Family with sequence similarity 170 member B
+FAM188A: family with sequence similarity 188, member A
+FAM213A: family with sequence similarity 213, member A
+FAM25BP encoding protein Protein FAM25
+FAS-AS1, long non-coding RNA
+FGFR2: fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson–Weiss syndrome)
+FRA10AC1: Fragile site, folic acid type
+FRAT1: WNT signaling pathway regulator
+FRAT2: WNT signaling pathway regulator
+FRMPD2 encoding protein FERM and PDZ domain containing 2
+GATA3: encoding the GATA3 transcription factor. GATA3 is critical for the embryonic development of the parathyroid gland, neural component of hearing, and kidney. Haploinsufficiency of the gene underlies a rare disorder, the hypoparathyrodism, deafness, and renal dysplasia syndrome
+GHITM: growth hormone-inducible transmembrane protein
+GPRIN2: G protein-regulated inducer of neurite outgrowth 2
+GTPBP4: Nucleolar GTP-binding protein 4
+HELLS: Lymphoid-specific helicase
+HKDC1: hexokinase domain containing 1
+KIN: DNA/RNA-binding protein KIN17
+MTG1: mitochondrial GTPase 1
+NPM3: nucleoplasmin-3
+NRBF2: nuclear receptor-binding factor 2
+NSMCE4A: non-SMC element 4 homolog A
+OTUD1: encoding protein OTU deubiquitinase 1
+PCBD1: 6-pyruvoyl-tetrahydropterin synthase/dimerization cofactor of hepatocyte nuclear factor 1 alpha (TCF1)
+PCDH15: protocadherin 15
+PI4K2A: phosphatidylinositol 4-kinase 2-alpha
+PIP4K2A: phosphatidylinositol 5 phosphate 4-kinase type-2 alpha
+PITRM1: pitrilysin metallopeptidase 1
+PLEKHS1 encoding protein Pleckstrin homology domain containing S1
+PLXDC2: plexin domain-containing protein 2
+PROSER2: proline and serine rich 2 or c10orf47
+PTEN gene: phosphatase and tensin homolog (mutated in multiple advanced cancers 1)
+RET: ret proto-oncogene (multiple endocrine neoplasia and medullary thyroid carcinoma 1, Hirschsprung disease)
+RPP30: ribonuclease P protein subunit p30
+RRP12: ribosomal RNA processing 12 homolog
+RSU1: ras suppressor protein 1
+SGPL1: sphingosine-1-phosphate lyase 1
+SMNDC1: survival motor neuron domain containing 1
+SPG9 encoding protein Spastic paraplegia 9 (autosomal dominant)
+SRGN: serglycin
+STAMBPL1: STAM binding protein like 1
+STOX1: encoding protein Storkhead box 1
+SUPV3L1: Suv3 like RNA helicase
+TACC2 encoding protein Transforming acidic coiled-coil-containing protein 2
+TBC1D12: TBC1 domain family, member 12
+TCTN3: tectonic family member 3
+TMEM10: opalin
+TMEM26: encoding protein Transmembrane protein 26
+UCN3: urocortin-3
+UROS: uroporphyrinogen III synthase (congenital erythropoietic porphyria)
+USP6NL: USP6 N-terminal like protein
+UTF1: undifferentiated embryonic cell transcription factor 1
+WASHC2C: WASH complex subunit 2C
+WBP1L: WW domain binding protein 1-like
+ZNF37A: zinc finger protein 37A
+ZNF438: zinc finger protein 438

@@ -1,0 +1,103 @@
+A1BG: encoding protein Alpha-1-B glycoprotein
+AAVS1, viral integration site
+ACSBG2: encoding enzyme Long-chain-fatty-acid—CoA ligase
+ANKRD24: encoding protein Ankyrin repeat domain-containing protein 24
+ARMC6: encoding protein Armadillo repeat-containing protein 6
+ATG4D: encoding protein Autophagy related 4D, cysteine peptidase
+ATP5SL: encoding protein ATP synthase subunit s-like protein
+ATPase ASNA1: encoding enzyme ATPase ASNA1 also known as arsenical pump-driving ATPase and arsenite-stimulated ATPase
+BTBD14B: encoding protein Nucleus accumbens-associated protein 1
+CACTIN: encoding protein Cactin
+CCDC130: encoding protein Coiled-coil domain containing 130
+CCDC151: encoding protein Coiled-coil domain containing 151
+CCDC8: encoding protein Coiled-coil domain containing 8
+CCDC94: encoding protein Coiled-coil domain containing 94 (CCDC94),
+DNASE2: encoding protein Deoxyribonuclease II, lysosomal
+EID2:
+ETV2: encoding protein Ets variant 2
+HCST: encoding protein Hematopoietic cell signal transducer
+HRC: encoding protein Sarcoplasmic reticulum histidine-rich calcium-binding protein
+IFI30: encoding enzyme Gamma-interferon-inducible lysosomal thiol reductase
+IGFL3: encoding protein IGF like family member 3
+KRTDAP: encoding protein Keratinocyte differentiation-associated protein
+LIM2: encoding protein Lens fiber membrane intrinsic protein
+LRG1: encoding protein Leucine-rich alpha-2-glycoprotein 1
+LSM4: encoding protein U6 snRNA-associated Sm-like protein LSm4
+LSR: encoding protein Lipolysis-stimulated lipoprotein receptor
+LYPD5: encoding protein LY6/PLAUR domain containing 5
+MBOAT7: encoding enzyme Lysophospholipid acyltransferase 7
+MOBKL2A: encoding enzyme Mps one binder kinase activator-like 2A
+MZF1-AS1: encoding protein MZF1 antisense RNA 1
+NCLN: encoding protein Nicalin
+NFKBID: encoding protein Nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor
+NOSIP: encoding enzyme Nitric oxide synthase-interacting protein
+NWD1: NACHT and WD repeat domain containing 1.
+OLFM2: encoding protein Olfactomedin 2
+OSCAR: encoding protein Osteoclast-associated immunoglobulin-like receptor
+PALM: encoding protein Paralemmin
+PDCD5: encoding protein Programmed cell death protein 5
+PLIN4: encoding protein Perilipin 4
+PEX11G: peroxisomal biogenesis factor 11 gamma
+PLVAP: encoding protein Plasmalemma vesicle-associated protein
+PRR12: encoding protein Proline-rich 12
+PRR36 (Proline Rich Region 36) encoding protein PRP36 (Proline Rich Protein 36)
+KLK3: The Prostate-specific antigen (PSA)
+PRX: Periaxin
+PTOV1: encoding protein Prostate tumor overexpressed gene 1 protein
+SBNO2: encoding protein Strawberry notch homolog 2 (Drosophila)
+SEPW1: encoding protein Selenoprotein W
+SFRS14: encoding protein Putative splicing factor, arginine/serine-rich 14
+SFRS16: encoding protein Splicing factor, arginine/serine-rich 16
+SLC5A5: Solute carrier family 5 (sodium iodide symporter), member 5
+STK11: Serine/threonine kinase 11 (Peutz-Jeghers syndrome)
+TBCB: encoding protein Tubulin-folding cofactor B
+TECR: encoding enzyme Trans-2,3-enoyl-CoA reductase
+THOP1: encoding enzyme Thimet oligopeptidase
+TIMM50: encoding enzyme Mitochondrial import inner membrane translocase subunit TIM50
+TIP39: encoding protein Tuberoinfundibular peptide of 39 residues
+TMED1: encoding protein Transmembrane emp24 domain-containing protein 1
+TMEM160: encoding protein Transmembrane protein 160
+TMEM205: encoding protein Transmembrane Protein 205
+UBXN6: encoding protein UBX domain protein 6
+UCA1: a long non-coding RNA Urothelial cancer associated 1
+UPK1A: encoding protein Uroplakin-1a
+USE1: encoding protein Uncharacterized hematopoietic stem/progenitor cells protein MDS032
+Zfp82 zinc finger protein: encoding protein ZFP82 zinc finger protein
+ZSCAN18: encoding protein Zinc finger and SCAN domain containing 18
+ZNF112: encoding protein Zinc finger protein 112
+ZNF134: encoding protein Zinc finger protein 134
+ZNF160: encoding protein Zinc finger protein 160
+ZNF180: encoding protein Zinc finger protein 180
+ZNF208: encoding protein Zinc finger protein 208
+ZNF224: encoding protein Zinc finger protein 224
+ZNF225: encoding protein Zinc finger protein 225
+ZNF226: encoding protein Zinc finger protein 226
+ZNF229: encoding protein Zinc finger protein 229
+ZNF257: encoding protein Zinc finger protein 257
+ZNF264: encoding protein Zinc finger protein 264
+ZNF266: encoding protein Zinc finger protein 266
+ZNF274: encoding protein Zinc finger protein 274
+ZNF331: encoding protein Zinc finger protein 331
+ZNF347: encoding protein Zinc finger protein 347
+ZNF426: encoding protein Zinc finger protein 426
+ZNF665 encoding protein Zinc finger protein 665
+ZNF473: encoding protein Zinc finger protein 473
+ZNF506: encoding protein Zinc finger protein 506
+ZNF507: encoding protein Zinc finger protein 507
+ZNF536: encoding protein Zinc finger protein 536
+ZNF541: encoding protein Zinc finger protein 541
+ZNF557: encoding protein Zinc finger protein 557
+ZNF571: encoding protein Zinc finger protein 571
+ZNF576: encoding protein Zinc finger protein 576
+Zinc finger protein 613: encoding protein Zinc finger protein 613
+ZNF649: Transcriptional suppressor
+ZNF71: encoding protein Endothelial zinc finger protein induced by tumor necrosis factor alpha
+ZNF737: encoding protein Zinc finger protein 737
+ZNF749: encoding protein Zinc finger protein 749
+ZNF676: encoding protein Zinc finger protein 676
+ZNF772: encoding protein Zinc finger protein 772
+ZNF784: encoding protein Zinc finger protein 784
+ZNF8: encoding protein Zinc finger protein 8
+ZNF83: encoding protein Zinc finger protein 83
+ZNF878: encoding protein Zinc finger protein 878
+ZNF880: encoding protein Zinc finger protein 880

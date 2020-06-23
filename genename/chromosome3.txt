@@ -1,0 +1,117 @@
+ALAS1: aminolevulinate, delta-, synthase 1
+APEH: encoding enzyme Acylamino-acid-releasing enzyme
+ARPP-21: Cyclic AMP-regulated phosphoprotein, 21 kDa
+AZI2: encoding protein 5-azacytidine-induced protein 2
+BRK1: SCAR/WAVE actin nucleating complex subunit
+BRPF1: bromodomain and PHD finger containing 1
+BTD: biotinidase
+C3orf14-Chromosome 3 open reading frame 14: predicted DNA binding protein.
+TCAIM: encoding protein T-cell activation inhibitor, mitochondrial
+NDUFAF3: encoding enzyme NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3
+C3orf62: chromosome 3 open reading frame 62
+CACNA2D3: calcium channel, voltage-dependent, alpha 2/delta subunit 3
+CCR5: chemokine (C-C motif) receptor 5
+CGGBP1: CGG triplet repeat binding protein 1
+CMTM7: CKLF like MARVEL transmembrane domain containing 7
+CNTN4: Contactin 4
+COL7A1: Collagen, type VII, alpha 1 (epidermolysis bullosa, dystrophic, dominant and recessive)
+CRBN: Cereblon protein[12]
+DCLK3: Doublecortin like kinase 3
+EAF1: ELL associated factor 1
+ENTPD3: ectonucleoside triphosphate diphosphohydrolase 3
+FAM107A: Family with sequence similarity 107 member A
+FAM19A1: Family with sequence similarity 19 member A1, C-C motif chemokine like
+FBXL2: F-box and leucine rich repeat protein 2
+FOXP1: Forkhead Box Protein P1
+FRA3A encoding protein Fragile site, aphidicolin type, common, fra(3)(p24.2)
+FRMD4B encoding protein FERM domain containing 4B
+GMPPB: GDP-mannose pyrophosphorylase B
+HEMK1: encoding protein HemK methyltransferase family member 1
+HIGD1A: HIG1 domain family member 1A
+LARS2: leucyl-tRNA synthetase, mitochondrial
+LIMD1: LIM domain-containing protein 1
+LINC00312: Long intergenic non-protein-coding RNA 312
+MITF: microphthalmia-associated transcription factor
+MLH1: mutL homolog 1, colon cancer, nonpolyposis type 2 (E. coli)
+MYRIP: Myosin VIIA and Rab interacting protein
+NBEAL2: Neurobeachin-like 2
+NKTR: NK-tumor recognition protein
+NPRL2: Nitrogen permease regulator 2-like protein
+OXTR: oxytocin receptor
+PHF7 encoding protein PHD finger protein 7
+PTHR1: parathyroid hormone receptor 1
+QRICH1: encoding protein QRICH1, also known as Glutamine-rich protein 1,
+RBM6: RNA-binding protein 6
+RPP14: Ribonuclease P protein subunit p14
+SCN5A: sodium channel, voltage-gated, type V, alpha (long QT syndrome 3)
+SETD5: SET domain containing 5
+SFMBT1: Scm-like with four mbt domains 1
+SLC25A20: solute carrier family 25 (carnitine/acylcarnitine translocase), member 20
+STT3B: catalytic subunit of the oligosaccharyltransferase complex
+SYNPR: synaptoporin
+TDGF1: Teratocarcinoma-derived growth factor 1
+TMEM158: Transmembrane protein 158
+TMIE: transmembrane inner ear
+TRAK1: trafficking kinesin-binding protein 1
+TRANK1: encoding protein Tetratricopeptide repeat and ankyrin repeat containing 1
+TUSC2: tumor suppressor candidate 2
+UCN2: Urocortin-2
+ULK4: UNC-51 like kinase 4
+VGLL3: vestigial-like family member 3
+VHL: von Hippel-Lindau tumor suppressor
+ZMYND10: zinc finger MYND-type containing 10
+ZNF502: encoding protein Zinc finger protein 502
+ZNF621: encoding protein Zinc finger protein 621
+ADIPOQ: adiponectin
+AMOTL2: encoding protein Angiomotin-like protein 2
+ARHGAP31: Rho GRPase activating protein 31
+TIMMDC1: TIMMDC1
+C3orf70 chromosome 3 open reading frame 70
+CAMPD1: Camptodactyly
+CCDC80: Coiled-coil domain containing protein 80
+CD200R1: Cell surface glycoprotein CD200 receptor 1
+CLDND1: Claudin domain containing 1
+CPN2: Carboxypeptidase N subunit 2
+CPOX: coproporphyrinogen oxidase (coproporphyria, harderoporphyria)
+DPPA2: Developmental pluripotency associated 2
+DZIP3 encoding protein DAZ interacting zinc finger protein 3
+EAF2: ELL associated factor 2
+EFCC1: EF-hand and coiled-coil domain containing 1
+ETM1: Essential tremor 1
+ETV5: ETS variant 5
+FAM43A: family with sequence similarity 43 member A
+FAM162A: family with sequence similarity 162 member A
+GYG1: Glycogenin-1
+HACD2 encoding protein 3-hydroxyacyl-CoA dehydratase 2
+HGD: homogentisate 1,2-dioxygenase (homogentisate oxidase)
+IFT122: intraflagellar transport gene 122
+KIAA1257: KIAA1257
+LMLN: encoding protein Leishmanolysin-like (metallopeptidase M8 family)
+LRRC15: leucine rich repeat containing 15
+LSG1: large subunit GTPase 1 homolog
+MB21D2: encoding protein Mab-21 domain containing 2
+MCCC1: methylcrotonoyl-Coenzyme A carboxylase 1 (alpha)
+MYLK: Telokin
+NFKBIZ: NF-kappa-B inhibitor zeta
+PARP14 encoding protein Poly(ADP-ribose) polymerase family member 14
+PCCB: propionyl Coenzyme A carboxylase, beta polypeptide
+PDCD10: programmed cell death 10
+PIK3CA: phosphoinositide-3-kinase, catalytic, alpha polypeptide
+PROSER1: Proline and serine rich protein 1
+RAB7: RAB7, member RAS oncogene family
+RETNLB: resistin-like beta
+RHO: rhodopsin visual pigment
+RIOX2: Ribosomal oxygenase 2
+SELT: Selenoprotein T
+SENP7: Sentrin-specific protease 7
+SERP1: Stress-associated endoplasmic reticulum protein 1
+SOX2: transcription factor
+SOX2OT: SOX2 overlapping transcript
+SPG14 encoding protein Spastic paraplegia 14 (autosomal recessive)
+SRPRB: Signal recognition particle receptor subunit beta
+TM4SF1: Transmembrane 4 L6 family member 1
+TP63: Tumor protein p63
+TRAT1: T-cell receptor-associated transmembrane adapter 1
+USH3A: Usher syndrome 3A
+ZBED2: encoding protein Zinc finger BED-type containing 2
+ZNF9: zinc finger protein 9 (a cellular retroviral nucleic acid binding protein)

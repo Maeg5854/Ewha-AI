@@ -1,0 +1,300 @@
+4E-BP	eIF4E binding protein
+Abl	Ableson leukemia oncogene cellular homolog
+AC	Adenylate cyclase
+ACTR	Acetyltransferase, amplified in breast cancer-1
+ADAP	Adhesion and degranulation adaptor protein
+Ag	Antigen
+AIF	Apoptosis-inducing factor
+Akt	AKT8 virus oncogene cellular homolog
+AMPK	AMP-activated protein kinase
+ANT	Adenine nucleotide translocation channel
+AP1	Activator protein 1 (c-jun and c-fos)
+Apaf-1	Apoptotic protease activating factor 1
+APC	Adenomatous polyposis coli
+APP	β-Amyloid precursor protein
+APPs	Acute phase proteins
+APS	Adapter protein with a PH and SH2 domain
+ASIP	Atypical PKC isotype-specific interacting protein
+ASK	Apoptosis signal-regulating kinase
+ATF-2	Activating transcription factor 2
+ATM	Ataxia telangiectasia-mutated protein kinase
+ATR	ATM and Rad3-related protein kinase
+BAFF	B cell activating factor of TNF family/BLyS
+Bam32	B cell adaptor molecule 32 kDa
+BCAP	B cell adaptor for PI3K
+Bcl-10	B cell leukemia 10 protein
+Bfl-1	Bcl-2-related protein A1
+Bid	A BH3 domain-only death agonist protein
+Bimp1	B-lymphocyte-induced maturation protein 1
+BLNK	B cell linker protein
+BLyS	B lymphocyte stimulator/BAFF
+BR3	BLyS receptor 3/BAFF-R
+BRCA	Breast cancer growth suppressor protein
+Btk	Bruton’s tyrosine kinase
+β-TrCP	β-transducin repeat-containing protein
+C3G	Guanine nucleotide-releasing factor 2
+CAD	Caspase-activated deoxyribonuclease
+Cam	Calmodulin
+CaMK	Calcium/calmodulin-dependent kinase
+cAMP	Cyclic adenosine monophosphate
+CAP	c-Cbl-associated protein
+Cas	p130CAS, Crk-associated substrate
+Caspase	Cysteine proteases with aspartate specificity
+Cav	Caveolin
+CBL	Cellular homologue of Cas NS-1 oncogene
+CBP	CREB binding protein
+cdc	Cell division control protein
+cdc2	CDK1, Cyclin-dependent kinase 1
+cdc34	A ubiquitin conjugating (E2) enzyme
+cdc37	A kinase-binding chaperone
+cdc42	Small GTPase of Rho family
+CDK	Cyclin-dependent kinase
+Chk	Checkpoint kinase
+CHOP	C/EBP homologous protein 10
+c-IAP	Cellular inhibitor of apoptosis protein
+CIP	CDK-interacting protein
+CIS	Cytokine inducible SH2-containing protein
+CK	Casein kinase
+c-Myb	Avian myeloblastosis virus oncogene cellular homolog
+c-Myc	Avian myelocytomatosis virus oncogene cellular homolog
+Cot	Cancer osaka thyroid, a S/T kinase
+cPLA2	Cytoplasmic phospholipase A2
+CREB	cAMP response element-binding protein
+CRK	CT10 sarcoma oncogene cellular homolog
+CTMP	Carboxyl-terminal modulator protein
+DAG	Diacylglycerol
+DAPK	Death-associated protein kinase
+Daxx	Fas death domain-associated protein
+Diablo	Direct IAP binding protein with low pI
+DNA-PK	DNA-activated protein kinase
+DP1	DRTF1-polypeptide-1, a transcription factor
+DPC4	Deleted in pancreatic cancer locus 4 (A.K.A. Smad4)
+DR	Death receptor
+Dsh	Dishevelled
+dsRNA	Double-stranded RNA
+E2F	Transcription factor family including E2F- and DP-like subunits
+eEF	Eukaryotic elongation factor
+Egr-1	Early growth response protein 1
+EHD1	EH domain-containing 1
+eIF	Eukaryotic initiation factor
+Elk	Ets-like transcription factor
+ENaC	Epithelial sodium channel
+Endo G	Endonuclease G
+eNOS	Endothelial nitric oxide synthase
+EPAC	Exchange protein activated by cAMP
+ER	Estrogen receptor, Endoplasmic reticulum
+Erk	Extracellular signal-regulated kinase
+Ets	E26-AMV virus oncogene cellular homolog, a transcription factor
+FADD	Fas-associated protein with death domain
+FAK	Focal adhesion kinase
+Fas	TNF superfamily receptor 6
+FcgRII	IgG Fc receptor II
+FKHR	Forkhead in rhabdomyosarcoma
+FLIP	FLICE (Caspase-8) inhibitory protein
+FRAP	FKBP12-rapamycin-associated protein
+FRS	FGF receptor substrate
+Fyn	A Src family tyrosine-protein kinase
+Gab1	GRB2-associated binder-1
+GADD	Growth arrest and DNA damage protein
+GAP	GTPase activating proteins
+GAS	IFN-γ-activated sequences
+Gas2	Growth arrest-specific gene 2
+GBP	GSK-3 binding protein
+GCK	Germinal center kinase
+GCN	General control of amino acid biosynthesis protein
+GEF	Guanine nucleotide exchange factor
+GF-Rs	Growth factor receptors
+GLUT4	Glucose transporter type 4
+GPCR	G-protein coupled receptor
+GRB	Growth factor receptor-bound protein
+GRIP	Glucocorticoid receptor interacting protein
+GRK	G-protein coupled receptor kinase
+GSK	Glycogen synthase kinase
+HDAC	Histone deacetylase
+HIPK	Homeodomain-interacting protein kinase
+HMG	High mobility group
+HPK	Hematopoietic progenitor kinase
+HRI	Hemin-regulated inhibitor
+Hrk/DP5	Harakiri protein, an activator of apoptosis
+HSF1	Heat-shock factor 1
+HSP	Heat shock protein
+HtrA2	High temperature requirement serine protease A2
+IAP	Inhibitor of apoptosis
+ICAD	Inhibitor of caspase-activated deoxyribonuclease
+IκB	Inhibitor of NF-κB
+IKK	IκB kinase
+ILK	Integrin-linked kinase
+INK4	Inhibitor of CDK4
+iNOS	Nitric oxide synthase, inducible
+IP3	inositol trisphosphate
+IRAK	Interleukin 1 receptor-associated kinase 1
+IRS	Insulin receptor substrate
+ISRE	Interferon-stimulated response element
+ITAM	immunoreceptor tyrosine-base activation motifs
+Jak	Janus-family tyrosine kinase
+JIP	JNK-interacting protein
+JNK	Jun N-terminal kinase
+KSR	Kinase suppressor of Ras
+LAB	Linker for activation of B cells
+LAT	Linker for activation of T cells
+LC8	Dynein light chain, cytoplasmic
+LCK	Lymphocyte-specific protein-tyrosine kinase
+LRP	LDL-receptor-related protein
+LT	Lymphotoxin
+LTβR	Lymphotoxin-β receptor
+Lyn	A src family tyrosine-protein kinase
+M3/6	Dual-specificity phosphatase
+MAGUKs	Membrane-associated guanylate kinase homologs
+MALT	Mucosa-associated lymphoma translocation protein
+MAPK	Mitogen-activated protein kinase
+MAPKAP	MAP kinase activated protein kinase
+Mcl-1	Myeloid cell leukemia 1
+MDM2	Murine double minute 2, a p53-associated oncogene
+MEF2	Myocyte enhancer factor 2
+MEK	MAPK/Erk kinase
+MEKK	MAPK/Erk kinase kinase
+MHC	Major histocompatibility complex
+mIg	Membrane immunoglobulin
+MKP	MAP kinase phosphatase
+MLCK	Myosin light chain kinase
+MLK	Mixed lineage kinase
+MNK	MAP kinase interacting kinase
+MP-1	MEK partner 1
+Mre11	Meiotic recombination 11
+MSK	Mitogen and stress activated kinase
+mTOR	Mammalian target of rapamycin
+Myc	Myelocytomatosis oncogene cellular homolog
+MyD88	Myeloid differentiation factor 88
+MyoD	Myogenic determination factor
+Myt1	A dual-specificity protein kinase
+NAK	NF-κB-activating kinase
+NAP1	Nck-associated protein 1
+NBS1	Nijmegen breakage syndrome 1
+Nck	Nck adaptor protein
+NcoR	Nuclear receptor corepressor
+Nemo	IKKγ, an IKK regulatory subunit
+NFAT	Nuclear factor of activated T cells
+NF-kB	Nuclear factor κ B
+NIK	NF-κB-inducing kinase
+NLK	Nemo-like kinase
+NO	Nitric oxide
+Noxa	Damage protein, a pro-apoptotic BH3-containing protein
+NRG	Neuregulin
+Oct	Octamer-binding transcription factor 2
+p19Arf	p19 alternative reading frame protein
+p300	A histone acetyltransferase
+p53	Tumor suppressor protein that protects from DNA damage
+p90RSK	90 kDa ribosomal S6 kinase
+PABP	Poly(A) tail-binding protein
+PAIP	Polyadenylate binding protein-interacting proteins
+PAK	p21-activated kinase
+PAR-1	Partitioning protein 1, a S/T kinase
+PARP	Poly(ADP-ribose)polymerase
+Pax	Paxillin
+PCAF	p300/CBP-associated factor, a histone acetyltransferase
+pCIP	p300/CBP-interacting protein, a histone acetyltransferase
+PDE3B	cGMP-inhibited 3’,5’-cyclic phosphodiesterase B
+PDK	3-phosphoinositide-dependent protein kinase
+PEK	Pancreatic eukaryotic initiation factor 2a-subunit kinase
+PERK	Type I transmembrane ER-resident protein kinase
+PI3K	Phosphoinositide 3 kinase
+PIAS	Protein inhibitors of activated Stats
+PIP2	Phosphatidylinositol 3,4-bisphosphate
+PIP3	Phosphatidylinositol 3,4,5-trisphosphate
+PKA	Protein kinase A
+PKC	Protein kinase C
+PKR	dsRNA-dependent Ser/Thr protein kinase
+PLA	Phospholipase A
+PLC	Phospholipase C
+Plk	Polo-like kinase
+PLP2A	Phospholipase A2
+POSH	Plenty Of SH3s
+PP1	Phospho-protein phosphatase 1
+PP2A	Phospho-protein phosphatase 2A
+PPAR	Peroxisome proliferator-activated receptor
+PR	Progesterone receptor
+PRAK	p38 regulated activated kinase
+PRK2	Protein kinase C-related kinase 2
+PTEN	Phosphatase and tensin homologue deleted on chromosome 10
+PTP1B	Protein phosphotyrosylphosphatase 1B
+PUMA	p53 upregulated modulator of apoptosis
+Pygo	Pygopus, a transcription co-activator
+PYK	Proline-rich tyrosine kinase
+RAIDD	RIP-associated ICH/CED-3-homologous protein with a death domain
+Rap1	Ras-related protein RAP-1A
+RAR	Retinoic acid receptor
+RasGRP	Ras guanyl nucleotide-releasing protein
+Rb	Retinoblastoma protein
+Rel	Reticuloendotheliosis oncogene cellular homolog
+RGS	Regulator of G-protein signaling
+Rheb	Ras homolog enriched in brain
+RIP	Receptor-interacting protein
+ROCK	Rho-associated, coiled-coil-containing protein kinase
+ROIs	Reactive oxygen intermediates
+RSK	Ribosomal protein S6 kinase
+RTK	Receptor tyrosine kinase
+RXR	Retinoid X receptor
+S6	Small subunit ribosomal protein S6
+SAPK	Stress-activated protein kinase
+SARA	Smad anchor for receptor activation
+SCF	Skp-cdc53-F-box ubiquitin ligase complex
+SGK	Serum/glucocorticoid-regulated kinase
+Shc	SH2-containing collagen-related proteins
+SHIP	SH2-containing inositol phosphatase
+SHP1	SH2-containing phosphatase 1
+SHP2	SH2-containing phosphatase 2
+Sin3	A transcriptional corepressor
+SIRT2	Silent information regulator 2
+SKP2	S-phase kinase-associated protein 2
+SLP76	SH2 domain-containing leukocyte protein, 76-kd
+Smac	Second mitochondria-derived activator of caspase
+Smad	Contraction of Sma and Mad (Mothers against decapentaplegic)
+SMRT	Silencing mediator of retinoic acid and thyroid hormone receptor
+Smurf	Smad ubiquitination regulatory factor
+SNARE	Soluble N-ethylmaleimide attachment protein receptors
+SOCS	Suppressor of cytokine signalling
+SOS	Son of sevenless guanine nucleotide exchange factor
+SOX	Sry-box transcription factors
+Src	Rous sarcoma oncogene cellular homolog
+SRC1	Steroid receptor coactivator 1
+SRF	Serum response factor
+Stat	Signal transducer and activator of transcription
+SUMO	Small ubiquitin-like modifier
+Suv39h1	Position-effect-variegation protein Su(var)3-9
+Syk	A tyrosine-protein kinase
+Synip	Syntaxin 4-interacting protein
+TAB	TAK binding protein
+TAFs	TBP-associated factors
+TAK	TGF β-activated kinase
+Tal	Talin
+Tax	Transactivator protein of HTLV-1
+tBid	Truncated Bid
+TBP	TATA-binding protein
+TC10	GTP-binding protein TC10
+TCF	T cell factor
+TCR	T cell receptor
+TF	Transcription factor
+TGF	Transforming growth factor
+TGIF	TG-interacting factor
+TH	Tyrosine hydroxylase
+Tip60	HIV1 Tat interacting protein
+TIRAP	TIR domain-containing adaptor protein
+TNF	Tumor necrosis factor
+Topo II	DNA topoisomerase II
+Tpl2	Tumor progression locus 2, (Cot1, MAP3K8)
+TR	Thyroid hormone receptor
+TRADD	TNF receptor-1-associated death domain protein
+TRAF	TNF receptor-associated factor
+TRAIL	TNF-related apoptosis-inducing ligand
+TRAM	Trif-related adaptor molecule
+TRIF	Tir domain-containing adaptor inducing interferon-beta
+TSC	Tuberous sclerosis complex
+TWEAK	TNF-related weak inducer of apoptosis
+ub	Ubiquitin
+UV	Ultraviolet radiation
+VASP	Vasodilator-stimulated phosphoprotein
+Vav	The ‘onc F’ proto-oncogene
+Wee1	Small cell protein, a mitotic inhibitor kinase
+XIAP	Inhibitor of apoptosis, x-linked
+YAP	Yes-associated protein 1
+Zap-70	z-chain-associated protein kinase
