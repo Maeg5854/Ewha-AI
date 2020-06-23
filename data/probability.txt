@@ -1,0 +1,315 @@
+Most of the terms listed in Wikipedia glossaries are already defined and explained within Wikipedia itself. However, glossaries like this one are useful for looking up, comparing and reviewing large numbers of terms together. You can help enhance this page by adding new terms or writing definitions for existing ones.
+The following is a glossary of terms used in the mathematical sciences statistics and probability.
+
+Contents: 
+ABCDEFGHIJKLMNOPQRSTUVWXYZSee alsoReferences
+Statistics
+Fisher iris versicolor sepalwidth.svg
+OutlineStatisticiansGlossaryNotationJournalsLists of topicsArticlesCategory
+Nuvola apps edu mathematics blue-p.svg Mathematics portal
+vte
+Probability
+
+OutlineCatalog of articlesProbabilistsGlossaryNotationJournalsCategory
+vte
+
+A
+admissible decision rule
+algebra of random variables
+alternative hypothesis
+analysis of variance
+atomic event
+Another name for elementary event
+B
+bar chart
+Bayes' theorem
+Bayes estimator
+Bayes factor
+Bayesian inference
+bias
+1.  A feature of a sample that is not representative of the population
+2.  The difference between the expected value of an estimator and the true value
+binary data
+Data that can take only two values, usually represented by 0 and 1
+binomial distribution
+bivariate analysis
+blocking
+Box–Jenkins method
+box plot
+C
+causal study
+A statistical study in which the objective is to measure the effect of some variable on the outcome of a different variable. For example, how will my headache feel if I take aspirin, versus if I do not take aspirin? Causal studies may be either experimental or observational.[1]
+central limit theorem
+central moment
+characteristic function
+chi-squared distribution
+chi-squared test
+cluster analysis
+cluster sampling
+complementary event
+completely randomized design
+computational statistics
+concomitants
+In a statistical study, concomitants are any variables whose values are unaffected by treatments, such as a unit’s age, gender, and cholesterol level before starting a diet (treatment).[1]
+conditional distribution
+Given two jointly distributed random variables X and Y, the conditional probability distribution of Y given X (written "Y | X") is the probability distribution of Y when X is known to be a particular value
+conditional probability
+The probability of some event A, assuming event B. Conditional probability is written P(A|B), and is read "the probability of A, given B"
+conditional probability distribution
+confidence interval
+In inferential statistics, a CI is a range of plausible values for some parameter, such as the population mean.[2] For example, based on a study of sleep habits among 100 people, a researcher may estimate that the overall population sleeps somewhere between 5 and 9 hours per night. This is different from the sample mean, which can be measured directly.
+confidence level
+Also known as a confidence coefficient, the confidence level indicates the probability that the confidence interval (range) captures the true population mean. For example, a confidence interval with a 95 percent confidence level has a 95 percent chance of capturing the population mean. Technically, this means that, if the experiment were repeated many times, 95 percent of the CIs would contain the true population mean.[2]
+confounding
+conjugate prior
+continuous variable
+convenience sampling
+correlation
+Also called correlation coefficient, a numeric measure of the strength of linear relationship between two random variables (one can use it to quantify, for example, how shoe size and height are correlated in the population). An example is the Pearson product-moment correlation coefficient, which is found by dividing the covariance of the two variables by the product of their standard deviations. Independent variables have a correlation of 0
+count data
+Data arising from counting that can take only non-negative integer values
+covariance
+Given two random variables X and Y, with expected values {\displaystyle E(X)=\mu }E(X)=\mu and {\displaystyle E(Y)=\nu }E(Y)=\nu, covariance is defined as the expected value of random variable {\displaystyle (X-\mu )(Y-\nu )}(X - \mu) (Y - \nu), and is written {\displaystyle \operatorname {cov} (X,Y)}\operatorname{cov}(X, Y). It is used for measuring correlation
+D
+data
+data analysis
+data set
+A sample and the associated data points
+data point
+A typed measurement — it can be a Boolean value, a real number, a vector (in which case it's also called a data vector), etc
+Decision rule
+decision theory
+degrees of freedom
+density estimation
+dependence
+dependent variable
+descriptive statistics
+design of experiments
+deviation
+discrete variable
+dot plot
+double counting
+E
+elementary event
+An event with only one element. For example, when pulling a card out of a deck, "getting the jack of spades" is an elementary event, while "getting a king or an ace" is not
+estimation theory
+estimator
+A function of the known data that is used to estimate an unknown parameter; an estimate is the result from the actual application of the function to a particular set of data. The mean can be used as an estimator
+expected value
+The sum of the probability of each possible outcome of the experiment multiplied by its payoff ("value"). Thus, it represents the average amount one "expects" to win per bet if bets with identical odds are repeated many times. For example, the expected value of a six-sided die roll is 3.5. The concept is similar to the mean. The expected value of random variable X is typically written E(X) for the operator and {\displaystyle \mu }\mu  (mu) for the parameter
+experiment
+Any procedure that can be infinitely repeated and has a well-defined set of outcomes
+exponential family
+event
+A subset of the sample space (a possible experiment's outcome), to which a probability can be assigned. For example, on rolling a die, "getting a five or a six" is an event (with a probability of one third if the die is fair)
+F
+factor analysis
+factorial experiment
+frequency
+frequency distribution
+frequency domain
+frequentist inference
+G
+general linear model
+generalized linear model
+grouped data
+H
+histogram
+I
+Independence (probability theory)
+independent variable
+interquartile range
+J
+joint distribution
+Given two random variables X and Y, the joint distribution of X and Y is the probability distribution of X and Y together
+joint probability
+The probability of two events occurring together. The joint probability of A and B is written {\displaystyle P(A\cap B)}P(A\cap B) or {\displaystyle P(A,\ B).}P(A, \ B).
+K
+Kalman filter
+kernel
+kernel density estimation
+kurtosis
+A measure of the infrequent extreme observations (outliers) of the probability distribution of a real-valued random variable. Higher kurtosis means more of the variance is due to infrequent extreme deviations, as opposed to frequent modestly sized deviations
+L
+L-moment
+law of large numbers
+likelihood function
+A conditional probability function considered a function of its second argument with its first argument held fixed. For example, imagine pulling a numbered ball with the number k from a bag of n balls, numbered 1 to n. Then you could describe a likelihood function for the random variable N as the probability of getting k given that there are n balls : the likelihood will be 1/n for n greater or equal to k, and 0 for n smaller than k. Unlike a probability distribution function, this likelihood function will not sum up to 1 on the sample space
+loss function
+likelihood-ratio test
+M
+M-estimator
+marginal distribution
+Given two jointly distributed random variables X and Y, the marginal distribution of X is simply the probability distribution of X ignoring information about Y
+Marginal likelihood
+marginal probability
+The probability of an event, ignoring any information about other events. The marginal probability of A is written P(A). Contrast with conditional probability
+Markov chain Monte Carlo
+mathematical statistics
+maximum likelihood estimation
+mean
+1.  The expected value of a random variable
+2.  The arithmetic mean is the average of a set of numbers, or the sum of the values divided by the number of values
+median
+median absolute deviation
+mode
+moving average
+multimodal distribution
+multivariate analysis
+multivariate kernel density estimation
+multivariate random variable
+A vector whose components are random variables on the same probability space
+mutual exclusivity
+mutual independence
+A collection of events is mutually independent if for any subset of the collection, the joint probability of all events occurring is equal to the product of the joint probabilities of the individual events. Think of the result of a series of coin-flips. This is a stronger condition than pairwise independence
+N
+nonparametric regression
+nonparametric statistics
+non-sampling error
+normal distribution
+normal probability plot
+null hypothesis
+The statement being tested in a test of statistical significance Usually the null hypothesis is a statement of 'no effect' or 'no difference'."[3] For example, if one wanted to test whether light has an effect on sleep, the null hypothesis would be that there is no effect. It is often symbolized as H0.
+O
+opinion poll
+optimal decision
+optimal design
+outlier
+P
+p-value
+pairwise independence
+A pairwise independent collection of random variables is a set of random variables any two of which are independent
+parameter
+Can be a population parameter, a distribution parameter, an unobserved parameter (with different shades of meaning). In statistics, this is often a quantity to be estimated
+particle filter
+percentile
+pie chart
+point estimation
+power
+prior probability
+In Bayesian inference, this represents prior beliefs or other information that is available before new data or observations are taken into account
+population parameter
+See parameter
+posterior probability
+The result of a Bayesian analysis that encapsulates the combination of prior beliefs or information with observed data
+principal component analysis
+probability
+probability density
+Describes the probability in a continuous probability distribution. For example, you can't say that the probability of a man being six feet tall is 20%, but you can say he has 20% of chances of being between five and six feet tall. Probability density is given by a probability density function. Contrast with probability mass
+probability density function
+Gives the probability distribution for a continuous random variable
+probability distribution
+A function that gives the probability of all elements in a given space: see List of probability distributions
+probability measure
+The probability of events in a probability space
+probability plot
+probability space
+A sample space over which a probability measure has been defined
+Q
+quantile
+quartile
+quota sampling
+R
+random variable
+A measurable function on a probability space, often real-valued. The distribution function of a random variable gives the probability of different results. We can also derive the mean and variance of a random variable
+See also: Discrete random variable and Continuous random variable
+randomized block design
+range
+The length of the smallest interval which contains all the data
+recursive Bayesian estimation
+regression analysis
+repeated measures design
+responses
+In a statistical study, any variables whose values may have been affected by the treatments, such as cholesterol levels after following a particular diet for six months.[1]
+restricted randomization
+robust statistics
+round-off error
+S
+sample
+That part of a population which is actually observed
+Sample mean and covariance
+The arithmetic mean of a sample of values drawn from the population. It is denoted by {\displaystyle {\overline {x}}}{\overline {x}}. An example is the average test score of a subset of 10 students from a class. Sample mean is used as an estimator of the population mean, which in this example would be the average test score of all of the students in the class.
+sample space
+The set of possible outcomes of an experiment. For example, the sample space for rolling a six-sided die will be {1, 2, 3, 4, 5, 6}
+sampling
+A process of selecting observations to obtain knowledge about a population. There are many methods to choose on which sample to do the observations
+sampling bias
+sampling distribution
+The probability distribution, under repeated sampling of the population, of a given statistic
+sampling error
+scatter plot
+Scale parameter
+significance level
+simple random sample
+Simpson's paradox
+skewness
+A measure of the asymmetry of the probability distribution of a real-valued random variable. Roughly speaking, a distribution has positive skew (right-skewed) if the higher tail is longer and negative skew (left-skewed) if the lower tail is longer (confusing the two is a common error)
+spaghetti plot
+spectrum bias
+standard deviation
+The most commonly used measure of statistical dispersion. It is the square root of the variance, and is generally written {\displaystyle \sigma }\sigma  (sigma)
+standard error
+standard score
+statistic
+The result of applying a statistical algorithm to a data set. It can also be described as an observable random variable
+statistical dispersion
+statistical graphics
+statistical hypothesis testing
+statistical independence
+Two events are independent if the outcome of one does not affect that of the other (for example, getting a 1 on one die roll does not affect the probability of getting a 1 on a second roll). Similarly, when we assert that two random variables are independent, we intuitively mean that knowing something about the value of one of them does not yield any information about the value of the other
+statistical inference
+Inference about a population from a random sample drawn from it or, more generally, about a random process from its observed behavior during a finite period of time
+statistical interference
+statistical model
+statistical population
+A set of entities about which statistical inferences are to be drawn, often based on random sampling. One can also talk about a population of measurements or values
+statistical dispersion
+Statistical variability is a measure of how diverse some data is. It can be expressed by the variance or the standard deviation
+statistical parameter
+A parameter that indexes a family of probability distributions
+statistical significance
+statistics
+Student's t-test
+stem-and-leaf display
+stratified sampling
+survey methodology
+survival function
+survivorship bias
+symmetric probability distribution
+systematic sampling
+T
+test statistic
+time domain
+time series
+time series analysis
+time series forecasting
+treatments
+Variables in a statistical study that are conceptually manipulable. For example, in a health study, following a certain diet is a treatment whereas age is not.[1]
+trial
+Can refer to each individual repetition when talking about an experiment composed of any fixed number of them. As an example, one can think of an experiment being any number from one to n coin tosses, say 17. In this case, one toss can be called a trial to avoid confusion, since the whole experiment is composed of 17 ones.
+trimmed estimator
+type I and type II errors
+U
+unimodal probability distribution
+units
+In a statistical study, the objects to which treatments are assigned. For example, in a study examining the effects of smoking cigarettes, the units would be people.[1]
+V
+variance
+A measure of its statistical dispersion of a random variable, indicating how far from the expected value its values typically are. The variance of random variable X is typically designated as {\displaystyle \operatorname {var} (X)}\operatorname{var}(X), {\displaystyle \sigma _{X}^{2}}\sigma_X^2, or simply {\displaystyle \sigma ^{2}}\sigma ^{2}
+W
+weighted arithmetic mean
+weighted median
+X
+XOR, exclusive disjunction
+Y
+Yates's correction for continuity
+Z
+z-test
+See also
+Notation in probability and statistics
+Probability axioms
+Glossary of experimental design
+List of statistical topics
+List of probability topics
+Glossary of areas of mathematics
+Glossary of calculus
